@@ -9070,55 +9070,6 @@
     }
   ],
   [
-    "0x8aD6739649f1fbF079882C14D27862d5c2206660",
-    {
-      "value": "29547000000000000000000",
-      "txs": [
-        {
-          "txHash": "0xe40f5f67ee28a7c6234c1407610fe055f8febd772986c2629eaf5e27eaa4eec5",
-          "total": "5076000000000000000000",
-          "totalWithDecimals": "5076",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x9c7ca19e58e1b2532d007f370adb8c5917c581c71898bd7baa7b8cc437a768f9",
-          "total": "2349000000000000000000",
-          "totalWithDecimals": "2349",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8b4f000c39da084a53e3639e65b442875e564a445bb41ef6db40b0f5ddc17844",
-          "total": "2295000000000000000000",
-          "totalWithDecimals": "2295",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8b4f000c39da084a53e3639e65b442875e564a445bb41ef6db40b0f5ddc17844",
-          "total": "2295000000000000000000",
-          "totalWithDecimals": "2295",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xbc3430fca9c159d2924ea64422a27ff72f91312ee33ce9c295d3eed3bbf4670e",
-          "total": "8775000000000000000000",
-          "totalWithDecimals": "8775",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x94274d65c6ec9a4b0585eb59f89bcafa7766a41f7d79aa6ccaefd2938681aed4",
-          "total": "8757000000000000000000",
-          "totalWithDecimals": "8757",
-          "totalUsd": "NaN"
-        }
-      ],
-      "valueWithDecimals": "29547",
-      "decimals": 18,
-      "symbol": "IOUX",
-      "name": "IOU Loyalty Exchange Token",
-      "usdValue": "0.00"
-    }
-  ],
-  [
     "0x21f0F0fD3141Ee9E11B3d7f13a1028CD515f459c",
     {
       "value": "1034116910298000000000000",
@@ -13868,51 +13819,51 @@
     }
   ],
   [
-    "0x1829aA045E21E0D59580024A951DB48096e01782",
+    "0x8aD6739649f1fbF079882C14D27862d5c2206660",
     {
-      "value": "63696823000000000000000000",
+      "value": "29547000000000000000000",
       "txs": [
         {
-          "txHash": "0x0b52831dbde3b56e31325e61d2548a85336f31e95ade4a31123882384652d203",
-          "total": "32591999000000000000000000",
-          "totalWithDecimals": "32591999",
+          "txHash": "0xe40f5f67ee28a7c6234c1407610fe055f8febd772986c2629eaf5e27eaa4eec5",
+          "total": "5076000000000000000000",
+          "totalWithDecimals": "5076",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x6a55c30c50a9ed61ab8a683c095a88e1716d68d12b574d6366f0f56ea9d89bea",
-          "total": "9000000000000000000000",
-          "totalWithDecimals": "9000",
+          "txHash": "0x9c7ca19e58e1b2532d007f370adb8c5917c581c71898bd7baa7b8cc437a768f9",
+          "total": "2349000000000000000000",
+          "totalWithDecimals": "2349",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x0af4cbdf551f5e9b4564951bed392222ff4ad293054f836ac788feaed481d977",
-          "total": "3000000000000000000000",
-          "totalWithDecimals": "3000",
+          "txHash": "0x8b4f000c39da084a53e3639e65b442875e564a445bb41ef6db40b0f5ddc17844",
+          "total": "2295000000000000000000",
+          "totalWithDecimals": "2295",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0xcbd0f4483a6748367a8741a3958d2384fd18b2cc18a4db78f47dd7ad81bfe58a",
-          "total": "10543523000000000000000000",
-          "totalWithDecimals": "10543523",
+          "txHash": "0x8b4f000c39da084a53e3639e65b442875e564a445bb41ef6db40b0f5ddc17844",
+          "total": "2295000000000000000000",
+          "totalWithDecimals": "2295",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x2664f61ef8fd5ce3b604f82ec319acdf595908b583c8b0e4e3aa4b276587fdde",
-          "total": "9800477000000000000000000",
-          "totalWithDecimals": "9800477",
+          "txHash": "0xbc3430fca9c159d2924ea64422a27ff72f91312ee33ce9c295d3eed3bbf4670e",
+          "total": "8775000000000000000000",
+          "totalWithDecimals": "8775",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x2432caa76eb83c258288d910150bc3448cdb76dc276d90eeded80b56ba8c63bc",
-          "total": "10748824000000000000000000",
-          "totalWithDecimals": "10748824",
+          "txHash": "0x94274d65c6ec9a4b0585eb59f89bcafa7766a41f7d79aa6ccaefd2938681aed4",
+          "total": "8757000000000000000000",
+          "totalWithDecimals": "8757",
           "totalUsd": "NaN"
         }
       ],
-      "valueWithDecimals": "63696823",
+      "valueWithDecimals": "29547",
       "decimals": 18,
-      "symbol": "FXT",
-      "name": "FuzeX Token",
+      "symbol": "IOUX",
+      "name": "IOU Loyalty Exchange Token",
       "usdValue": "0.00"
     }
   ],
@@ -34407,6 +34358,55 @@
     }
   ],
   [
+    "0x1829aA045E21E0D59580024A951DB48096e01782",
+    {
+      "value": "63696823000000000000000000",
+      "txs": [
+        {
+          "txHash": "0x0b52831dbde3b56e31325e61d2548a85336f31e95ade4a31123882384652d203",
+          "total": "32591999000000000000000000",
+          "totalWithDecimals": "32591999",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x6a55c30c50a9ed61ab8a683c095a88e1716d68d12b574d6366f0f56ea9d89bea",
+          "total": "9000000000000000000000",
+          "totalWithDecimals": "9000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0af4cbdf551f5e9b4564951bed392222ff4ad293054f836ac788feaed481d977",
+          "total": "3000000000000000000000",
+          "totalWithDecimals": "3000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xcbd0f4483a6748367a8741a3958d2384fd18b2cc18a4db78f47dd7ad81bfe58a",
+          "total": "10543523000000000000000000",
+          "totalWithDecimals": "10543523",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2664f61ef8fd5ce3b604f82ec319acdf595908b583c8b0e4e3aa4b276587fdde",
+          "total": "9800477000000000000000000",
+          "totalWithDecimals": "9800477",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2432caa76eb83c258288d910150bc3448cdb76dc276d90eeded80b56ba8c63bc",
+          "total": "10748824000000000000000000",
+          "totalWithDecimals": "10748824",
+          "totalUsd": "NaN"
+        }
+      ],
+      "valueWithDecimals": "63696823",
+      "decimals": 18,
+      "symbol": "FXT",
+      "name": "FuzeX Token",
+      "usdValue": "0.00"
+    }
+  ],
+  [
     "0xA60BB5C004BaaED4d48E9a39213e79504832dDf1",
     {
       "value": "509000000000",
@@ -51166,20 +51166,20 @@
     }
   ],
   [
-    "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+    "0x0afdAcdb91a1BE348c4F93CDAdf654ffD3fCB1C7",
     {
-      "value": "4446000000000000000000",
+      "value": "22750000000000000000000",
       "txs": [
         {
-          "txHash": "0x3761c7c6a1555931f08483f6e15f19df74455dde3ed7309adf2a1f2b37e2c9b6",
-          "total": "4446000000000000000000",
-          "totalWithDecimals": "4446"
+          "txHash": "0x15712abb27d84dd0ac5aa4e9e85467b3376225c104ef00b6240427aa2bea43ac",
+          "total": "22750000000000000000000",
+          "totalWithDecimals": "22750"
         }
       ],
-      "valueWithDecimals": "4446",
+      "valueWithDecimals": "22750",
       "decimals": 18,
-      "symbol": "DTH",
-      "name": "Dether"
+      "symbol": "CHFS",
+      "name": "Swiss Franc (CHF) stable"
     }
   ],
   [
@@ -71259,20 +71259,20 @@
     }
   ],
   [
-    "0x0afdAcdb91a1BE348c4F93CDAdf654ffD3fCB1C7",
+    "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
     {
-      "value": "22750000000000000000000",
+      "value": "4446000000000000000000",
       "txs": [
         {
-          "txHash": "0x15712abb27d84dd0ac5aa4e9e85467b3376225c104ef00b6240427aa2bea43ac",
-          "total": "22750000000000000000000",
-          "totalWithDecimals": "22750"
+          "txHash": "0x3761c7c6a1555931f08483f6e15f19df74455dde3ed7309adf2a1f2b37e2c9b6",
+          "total": "4446000000000000000000",
+          "totalWithDecimals": "4446"
         }
       ],
-      "valueWithDecimals": "22750",
+      "valueWithDecimals": "4446",
       "decimals": 18,
-      "symbol": "CHFS",
-      "name": "Swiss Franc (CHF) stable"
+      "symbol": "DTH",
+      "name": "Dether"
     }
   ]
 ]
