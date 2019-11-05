@@ -9376,97 +9376,6 @@
     }
   ],
   [
-    "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
-    {
-      "value": "2633086178722270000000000",
-      "txs": [
-        {
-          "txHash": "0x46104a3694522bcc820f39be898431a61d0476d3a4fd2e3a838d67247a85dfac",
-          "total": "17050538882260000000000",
-          "totalWithDecimals": "17050.53888226",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x55aa99bf328434fc69885a4697f7bee7e54d9e67f99ee77dc67c609f6f65519a",
-          "total": "21308886478720000000000",
-          "totalWithDecimals": "21308.88647872",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8d25cf7600d53fb7b7eea4347414f0273db6195fab1a021333e9aead3a19656a",
-          "total": "28013649263440000000000",
-          "totalWithDecimals": "28013.64926344",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x71a19be61fc044c428548876c8cd3187b7fad9dc4420fc9b2614b4c04a8d3276",
-          "total": "46202455403130000000000",
-          "totalWithDecimals": "46202.45540313",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xfd951dacb872caff86a708bd1c656de559b23071af49c048b278dd2c4edf7881",
-          "total": "73967857502330000000000",
-          "totalWithDecimals": "73967.85750233",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0774b9b9c57ea965f1c5f646913033242e77c5e860ec33e7feddf6ad511c3f8a",
-          "total": "125242442037000000000000",
-          "totalWithDecimals": "125242.442037",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3f9fb7b1ecc8baa89486ffb6a03f5025a4e3bdf6ba8d77850e53041184778358",
-          "total": "215221714635780000000000",
-          "totalWithDecimals": "215221.71463578",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xbe8a2a00d88785a308a38224094a0a6248f3147f82ae2c30919b47e762cb77ba",
-          "total": "405967744416560000000000",
-          "totalWithDecimals": "405967.74441656",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x44a78bba8d7ea67c2ec435a1ea7df28d35fc84c4a2ee1ed0baf069e925450c34",
-          "total": "1572494086571670000000000",
-          "totalWithDecimals": "1572494.08657167",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa841d79741168d518fbb1194ced83bdc6b74a8aeaa6962de9a97c915521d1ffa",
-          "total": "17450447162320000000000",
-          "totalWithDecimals": "17450.44716232",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xbf3e03f6bbcc3b1e278430203b425c80c7316951f284ac6d5dbb7a8ac72d3734",
-          "total": "22499281985770000000000",
-          "totalWithDecimals": "22499.28198577",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x59fa790da84f3243a4e6d51c6c7f77e05a02a015c6c350d6fb14c9583ae85c3c",
-          "total": "30383619804170000000000",
-          "totalWithDecimals": "30383.61980417",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x40ffc4636014d60a1e6a788b16a55f3c3e6ff0ae1a14b44e10916008b9ba51cc",
-          "total": "57283454579120000000000",
-          "totalWithDecimals": "57283.45457912",
-          "totalUsd": "NaN"
-        }
-      ],
-      "valueWithDecimals": "2633086.17872227",
-      "decimals": 18,
-      "symbol": "CND",
-      "name": "Cindicator Token",
-      "usdValue": "0.00"
-    }
-  ],
-  [
     "0x3aCA71C508e06Dc6B2758DaB6eb20f7654572fb7",
     {
       "value": "17024424663597000000000000",
@@ -14116,51 +14025,93 @@
     }
   ],
   [
-    "0x1829aA045E21E0D59580024A951DB48096e01782",
+    "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
     {
-      "value": "63696823000000000000000000",
+      "value": "2633086178722270000000000",
       "txs": [
         {
-          "txHash": "0x0b52831dbde3b56e31325e61d2548a85336f31e95ade4a31123882384652d203",
-          "total": "32591999000000000000000000",
-          "totalWithDecimals": "32591999",
+          "txHash": "0x46104a3694522bcc820f39be898431a61d0476d3a4fd2e3a838d67247a85dfac",
+          "total": "17050538882260000000000",
+          "totalWithDecimals": "17050.53888226",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x6a55c30c50a9ed61ab8a683c095a88e1716d68d12b574d6366f0f56ea9d89bea",
-          "total": "9000000000000000000000",
-          "totalWithDecimals": "9000",
+          "txHash": "0x55aa99bf328434fc69885a4697f7bee7e54d9e67f99ee77dc67c609f6f65519a",
+          "total": "21308886478720000000000",
+          "totalWithDecimals": "21308.88647872",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x0af4cbdf551f5e9b4564951bed392222ff4ad293054f836ac788feaed481d977",
-          "total": "3000000000000000000000",
-          "totalWithDecimals": "3000",
+          "txHash": "0x8d25cf7600d53fb7b7eea4347414f0273db6195fab1a021333e9aead3a19656a",
+          "total": "28013649263440000000000",
+          "totalWithDecimals": "28013.64926344",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0xcbd0f4483a6748367a8741a3958d2384fd18b2cc18a4db78f47dd7ad81bfe58a",
-          "total": "10543523000000000000000000",
-          "totalWithDecimals": "10543523",
+          "txHash": "0x71a19be61fc044c428548876c8cd3187b7fad9dc4420fc9b2614b4c04a8d3276",
+          "total": "46202455403130000000000",
+          "totalWithDecimals": "46202.45540313",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x2664f61ef8fd5ce3b604f82ec319acdf595908b583c8b0e4e3aa4b276587fdde",
-          "total": "9800477000000000000000000",
-          "totalWithDecimals": "9800477",
+          "txHash": "0xfd951dacb872caff86a708bd1c656de559b23071af49c048b278dd2c4edf7881",
+          "total": "73967857502330000000000",
+          "totalWithDecimals": "73967.85750233",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x2432caa76eb83c258288d910150bc3448cdb76dc276d90eeded80b56ba8c63bc",
-          "total": "10748824000000000000000000",
-          "totalWithDecimals": "10748824",
+          "txHash": "0x0774b9b9c57ea965f1c5f646913033242e77c5e860ec33e7feddf6ad511c3f8a",
+          "total": "125242442037000000000000",
+          "totalWithDecimals": "125242.442037",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x3f9fb7b1ecc8baa89486ffb6a03f5025a4e3bdf6ba8d77850e53041184778358",
+          "total": "215221714635780000000000",
+          "totalWithDecimals": "215221.71463578",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xbe8a2a00d88785a308a38224094a0a6248f3147f82ae2c30919b47e762cb77ba",
+          "total": "405967744416560000000000",
+          "totalWithDecimals": "405967.74441656",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x44a78bba8d7ea67c2ec435a1ea7df28d35fc84c4a2ee1ed0baf069e925450c34",
+          "total": "1572494086571670000000000",
+          "totalWithDecimals": "1572494.08657167",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa841d79741168d518fbb1194ced83bdc6b74a8aeaa6962de9a97c915521d1ffa",
+          "total": "17450447162320000000000",
+          "totalWithDecimals": "17450.44716232",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xbf3e03f6bbcc3b1e278430203b425c80c7316951f284ac6d5dbb7a8ac72d3734",
+          "total": "22499281985770000000000",
+          "totalWithDecimals": "22499.28198577",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x59fa790da84f3243a4e6d51c6c7f77e05a02a015c6c350d6fb14c9583ae85c3c",
+          "total": "30383619804170000000000",
+          "totalWithDecimals": "30383.61980417",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x40ffc4636014d60a1e6a788b16a55f3c3e6ff0ae1a14b44e10916008b9ba51cc",
+          "total": "57283454579120000000000",
+          "totalWithDecimals": "57283.45457912",
           "totalUsd": "NaN"
         }
       ],
-      "valueWithDecimals": "63696823",
+      "valueWithDecimals": "2633086.17872227",
       "decimals": 18,
-      "symbol": "FXT",
-      "name": "FuzeX Token",
+      "symbol": "CND",
+      "name": "Cindicator Token",
       "usdValue": "0.00"
     }
   ],
@@ -37124,6 +37075,55 @@
     }
   ],
   [
+    "0x1829aA045E21E0D59580024A951DB48096e01782",
+    {
+      "value": "63696823000000000000000000",
+      "txs": [
+        {
+          "txHash": "0x0b52831dbde3b56e31325e61d2548a85336f31e95ade4a31123882384652d203",
+          "total": "32591999000000000000000000",
+          "totalWithDecimals": "32591999",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x6a55c30c50a9ed61ab8a683c095a88e1716d68d12b574d6366f0f56ea9d89bea",
+          "total": "9000000000000000000000",
+          "totalWithDecimals": "9000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0af4cbdf551f5e9b4564951bed392222ff4ad293054f836ac788feaed481d977",
+          "total": "3000000000000000000000",
+          "totalWithDecimals": "3000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xcbd0f4483a6748367a8741a3958d2384fd18b2cc18a4db78f47dd7ad81bfe58a",
+          "total": "10543523000000000000000000",
+          "totalWithDecimals": "10543523",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2664f61ef8fd5ce3b604f82ec319acdf595908b583c8b0e4e3aa4b276587fdde",
+          "total": "9800477000000000000000000",
+          "totalWithDecimals": "9800477",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2432caa76eb83c258288d910150bc3448cdb76dc276d90eeded80b56ba8c63bc",
+          "total": "10748824000000000000000000",
+          "totalWithDecimals": "10748824",
+          "totalUsd": "NaN"
+        }
+      ],
+      "valueWithDecimals": "63696823",
+      "decimals": 18,
+      "symbol": "FXT",
+      "name": "FuzeX Token",
+      "usdValue": "0.00"
+    }
+  ],
+  [
     "0x07446e9eF09C89bDC74348B014c9a4133481F60c",
     {
       "value": "1250000000000000000000",
@@ -47352,40 +47352,20 @@
     }
   ],
   [
-    "0xe9f16332461D96B724d734F82cc4855983Dc2143",
+    "0xE968aD47B1C071Ea3905ef982833552a495D6213",
     {
-      "value": "4207000000",
+      "value": "37045052000000000000000000",
       "txs": [
         {
-          "txHash": "0xf94a29dcdce03efab405feac56db618a17a5e22cc2af5bb9f92387664d384dea",
-          "total": "237000000",
-          "totalWithDecimals": "237"
-        },
-        {
-          "txHash": "0x78ccdc1311de8c0c48e92c263a0e4767497cb0ffee543d0f51e5ca445d2ed2e3",
-          "total": "1096000000",
-          "totalWithDecimals": "1096"
-        },
-        {
-          "txHash": "0x5b0c15bcba0ec68de25191cace399ca0e1e53d44e610cb35051f5cea61c4bce6",
-          "total": "559000000",
-          "totalWithDecimals": "559"
-        },
-        {
-          "txHash": "0x040346ad6678a7def6859bd6d573af0a5040a7ed6b781d8e82abf463aaa558ad",
-          "total": "930000000",
-          "totalWithDecimals": "930"
-        },
-        {
-          "txHash": "0x6f1e650390d5796567538a669fcadaa03f30b75693d87e859e46b13c16b2613b",
-          "total": "1385000000",
-          "totalWithDecimals": "1385"
+          "txHash": "0x01f02f6f172affaa6670c68de841f1511d2727733c71a0cac66941f159e9ba2e",
+          "total": "37045052000000000000000000",
+          "totalWithDecimals": "37045052"
         }
       ],
-      "valueWithDecimals": "4207",
-      "decimals": 6,
-      "symbol": "BTC2",
-      "name": "bitcoin 2"
+      "valueWithDecimals": "37045052",
+      "decimals": 18,
+      "symbol": "CMA",
+      "name": "CryptoMarketAdsToken"
     }
   ],
   [
@@ -73402,20 +73382,40 @@
     }
   ],
   [
-    "0xE968aD47B1C071Ea3905ef982833552a495D6213",
+    "0xe9f16332461D96B724d734F82cc4855983Dc2143",
     {
-      "value": "37045052000000000000000000",
+      "value": "4207000000",
       "txs": [
         {
-          "txHash": "0x01f02f6f172affaa6670c68de841f1511d2727733c71a0cac66941f159e9ba2e",
-          "total": "37045052000000000000000000",
-          "totalWithDecimals": "37045052"
+          "txHash": "0xf94a29dcdce03efab405feac56db618a17a5e22cc2af5bb9f92387664d384dea",
+          "total": "237000000",
+          "totalWithDecimals": "237"
+        },
+        {
+          "txHash": "0x78ccdc1311de8c0c48e92c263a0e4767497cb0ffee543d0f51e5ca445d2ed2e3",
+          "total": "1096000000",
+          "totalWithDecimals": "1096"
+        },
+        {
+          "txHash": "0x5b0c15bcba0ec68de25191cace399ca0e1e53d44e610cb35051f5cea61c4bce6",
+          "total": "559000000",
+          "totalWithDecimals": "559"
+        },
+        {
+          "txHash": "0x040346ad6678a7def6859bd6d573af0a5040a7ed6b781d8e82abf463aaa558ad",
+          "total": "930000000",
+          "totalWithDecimals": "930"
+        },
+        {
+          "txHash": "0x6f1e650390d5796567538a669fcadaa03f30b75693d87e859e46b13c16b2613b",
+          "total": "1385000000",
+          "totalWithDecimals": "1385"
         }
       ],
-      "valueWithDecimals": "37045052",
-      "decimals": 18,
-      "symbol": "CMA",
-      "name": "CryptoMarketAdsToken"
+      "valueWithDecimals": "4207",
+      "decimals": 6,
+      "symbol": "BTC2",
+      "name": "bitcoin 2"
     }
   ]
 ]
