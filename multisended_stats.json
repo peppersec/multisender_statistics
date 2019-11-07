@@ -9412,97 +9412,6 @@
     }
   ],
   [
-    "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
-    {
-      "value": "2633086178722270000000000",
-      "txs": [
-        {
-          "txHash": "0x46104a3694522bcc820f39be898431a61d0476d3a4fd2e3a838d67247a85dfac",
-          "total": "17050538882260000000000",
-          "totalWithDecimals": "17050.53888226",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x55aa99bf328434fc69885a4697f7bee7e54d9e67f99ee77dc67c609f6f65519a",
-          "total": "21308886478720000000000",
-          "totalWithDecimals": "21308.88647872",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8d25cf7600d53fb7b7eea4347414f0273db6195fab1a021333e9aead3a19656a",
-          "total": "28013649263440000000000",
-          "totalWithDecimals": "28013.64926344",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x71a19be61fc044c428548876c8cd3187b7fad9dc4420fc9b2614b4c04a8d3276",
-          "total": "46202455403130000000000",
-          "totalWithDecimals": "46202.45540313",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xfd951dacb872caff86a708bd1c656de559b23071af49c048b278dd2c4edf7881",
-          "total": "73967857502330000000000",
-          "totalWithDecimals": "73967.85750233",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0774b9b9c57ea965f1c5f646913033242e77c5e860ec33e7feddf6ad511c3f8a",
-          "total": "125242442037000000000000",
-          "totalWithDecimals": "125242.442037",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3f9fb7b1ecc8baa89486ffb6a03f5025a4e3bdf6ba8d77850e53041184778358",
-          "total": "215221714635780000000000",
-          "totalWithDecimals": "215221.71463578",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xbe8a2a00d88785a308a38224094a0a6248f3147f82ae2c30919b47e762cb77ba",
-          "total": "405967744416560000000000",
-          "totalWithDecimals": "405967.74441656",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x44a78bba8d7ea67c2ec435a1ea7df28d35fc84c4a2ee1ed0baf069e925450c34",
-          "total": "1572494086571670000000000",
-          "totalWithDecimals": "1572494.08657167",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa841d79741168d518fbb1194ced83bdc6b74a8aeaa6962de9a97c915521d1ffa",
-          "total": "17450447162320000000000",
-          "totalWithDecimals": "17450.44716232",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xbf3e03f6bbcc3b1e278430203b425c80c7316951f284ac6d5dbb7a8ac72d3734",
-          "total": "22499281985770000000000",
-          "totalWithDecimals": "22499.28198577",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x59fa790da84f3243a4e6d51c6c7f77e05a02a015c6c350d6fb14c9583ae85c3c",
-          "total": "30383619804170000000000",
-          "totalWithDecimals": "30383.61980417",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x40ffc4636014d60a1e6a788b16a55f3c3e6ff0ae1a14b44e10916008b9ba51cc",
-          "total": "57283454579120000000000",
-          "totalWithDecimals": "57283.45457912",
-          "totalUsd": "NaN"
-        }
-      ],
-      "valueWithDecimals": "2633086.17872227",
-      "decimals": 18,
-      "symbol": "CND",
-      "name": "Cindicator Token",
-      "usdValue": "0.00"
-    }
-  ],
-  [
     "0x3aCA71C508e06Dc6B2758DaB6eb20f7654572fb7",
     {
       "value": "17024424663597000000000000",
@@ -14182,1419 +14091,93 @@
     }
   ],
   [
-    "0x3684b581dB1F94b721EE0022624329FEb16Ab653",
+    "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
     {
-      "value": "18603501848330000000000000",
+      "value": "2633086178722270000000000",
       "txs": [
         {
-          "txHash": "0x61d6a04e0c87d6b89ec781d1f708d35ca75454c6a5ff3f933daa7982159455a5",
-          "total": "15000000000000000000000",
-          "totalWithDecimals": "15000",
+          "txHash": "0x46104a3694522bcc820f39be898431a61d0476d3a4fd2e3a838d67247a85dfac",
+          "total": "17050538882260000000000",
+          "totalWithDecimals": "17050.53888226",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0xb1b2e6fa46abf779afc4de1cd0d7651325af0b37707c5607f5db04c1e900a145",
-          "total": "400000000000000000000000",
-          "totalWithDecimals": "400000",
+          "txHash": "0x55aa99bf328434fc69885a4697f7bee7e54d9e67f99ee77dc67c609f6f65519a",
+          "total": "21308886478720000000000",
+          "totalWithDecimals": "21308.88647872",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x8b01b7fd2c9b3aa68fd0465afb27b705a693e36ab8dd8eac17b60011a4be8e4f",
-          "total": "412000000000000000000000",
-          "totalWithDecimals": "412000",
+          "txHash": "0x8d25cf7600d53fb7b7eea4347414f0273db6195fab1a021333e9aead3a19656a",
+          "total": "28013649263440000000000",
+          "totalWithDecimals": "28013.64926344",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0xa7dd27de9908f91bbde235c6700fe545cd567851ede858db7472b88b7fab94bc",
-          "total": "491000000000000000000000",
-          "totalWithDecimals": "491000",
+          "txHash": "0x71a19be61fc044c428548876c8cd3187b7fad9dc4420fc9b2614b4c04a8d3276",
+          "total": "46202455403130000000000",
+          "totalWithDecimals": "46202.45540313",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0xb600f676cc0a3dbd23fb8c2fcb77a3cf5c2b7a1fc19f7660105b6dda1095be0d",
-          "total": "13586000000000000000000000",
-          "totalWithDecimals": "13586000",
+          "txHash": "0xfd951dacb872caff86a708bd1c656de559b23071af49c048b278dd2c4edf7881",
+          "total": "73967857502330000000000",
+          "totalWithDecimals": "73967.85750233",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x71d8ebe3d39ea4e84e0ae530167bebebfb302634464cffe3265eea10f53a0766",
-          "total": "210082615380000000000000",
-          "totalWithDecimals": "210082.61538",
+          "txHash": "0x0774b9b9c57ea965f1c5f646913033242e77c5e860ec33e7feddf6ad511c3f8a",
+          "total": "125242442037000000000000",
+          "totalWithDecimals": "125242.442037",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x86f40cc476467ae45c3c8d60fd1b44bb782453710a6ceb1ca7fb8e6aa289a18f",
-          "total": "313300000000000000000000",
-          "totalWithDecimals": "313300",
+          "txHash": "0x3f9fb7b1ecc8baa89486ffb6a03f5025a4e3bdf6ba8d77850e53041184778358",
+          "total": "215221714635780000000000",
+          "totalWithDecimals": "215221.71463578",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x5b521d00cbdfe470e658ae07fa4303d50ddbe72f6189d44589d83ef7f00d967f",
-          "total": "28327000000000000000000",
-          "totalWithDecimals": "28327",
+          "txHash": "0xbe8a2a00d88785a308a38224094a0a6248f3147f82ae2c30919b47e762cb77ba",
+          "total": "405967744416560000000000",
+          "totalWithDecimals": "405967.74441656",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x1e3a62bc9f139ca501654ae6f1e2a6f6bc866a95120d6a20d244e032ad207233",
-          "total": "150800000000000000000000",
-          "totalWithDecimals": "150800",
+          "txHash": "0x44a78bba8d7ea67c2ec435a1ea7df28d35fc84c4a2ee1ed0baf069e925450c34",
+          "total": "1572494086571670000000000",
+          "totalWithDecimals": "1572494.08657167",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x437b5d3a2c7aa2e57bf862b8dbf164eb386f7848a31f165b4dc17cedf3d3027c",
-          "total": "97800000000000000000000",
-          "totalWithDecimals": "97800",
+          "txHash": "0xa841d79741168d518fbb1194ced83bdc6b74a8aeaa6962de9a97c915521d1ffa",
+          "total": "17450447162320000000000",
+          "totalWithDecimals": "17450.44716232",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0x0622d1ec892dd7867ee4fe31430e316f46c5deb9634db37dd85444e2a0821496",
-          "total": "72100000000000000000000",
-          "totalWithDecimals": "72100",
+          "txHash": "0xbf3e03f6bbcc3b1e278430203b425c80c7316951f284ac6d5dbb7a8ac72d3734",
+          "total": "22499281985770000000000",
+          "totalWithDecimals": "22499.28198577",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0xef803fe41c871dc95cec150676dd0459c57e14b5d9d66c9a4465e191ee60765d",
-          "total": "4500000000000000000000",
-          "totalWithDecimals": "4500",
+          "txHash": "0x59fa790da84f3243a4e6d51c6c7f77e05a02a015c6c350d6fb14c9583ae85c3c",
+          "total": "30383619804170000000000",
+          "totalWithDecimals": "30383.61980417",
           "totalUsd": "NaN"
         },
         {
-          "txHash": "0xd7a2998e7c91c741f02be6b8fea47d240a922bdf9633650c45682969daf9f958",
-          "total": "5000000000000000000000",
-          "totalWithDecimals": "5000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x1faf66e4a909328f0cb1c8735b98a0d79d30d3b91035307978df991ef9bfa754",
-          "total": "71499000000000000000000",
-          "totalWithDecimals": "71499",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x956bb493f053520ded021f1cf9d011af5b786a1c968490912b5e2dd001803bfa",
-          "total": "4002000000000000000000",
-          "totalWithDecimals": "4002",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x233e7ec203317f77a4ffdc06db9f57c00a8d86f30345fe54360b239a6a43c64c",
-          "total": "3500000000000000000000",
-          "totalWithDecimals": "3500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x6ed9ae71a0edacea8d0d3bf28026b11c9e3c6a2153933cc15d16723e3abdb4b9",
-          "total": "33000000000000000000000",
-          "totalWithDecimals": "33000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x99d6ebbcdb4961bca834bd74527e597b58911751e918426d2aae358ab017ef31",
-          "total": "10400000000000000000000",
-          "totalWithDecimals": "10400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3b80032f7d935ba6fee12c5a47f0cdc29fa6a0423eeb5cf13ae45ac1c02baa30",
-          "total": "32500000000000000000000",
-          "totalWithDecimals": "32500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xfc066cf33bed17be78c5231c5add1d2a56571b690beb25234b22a55d50116f59",
-          "total": "13900000000000000000000",
-          "totalWithDecimals": "13900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x7f3d764f6f8a35c957f8ddfd2197a02cd553fe0449ea20b18d2be184ee08c151",
-          "total": "11500000000000000000000",
-          "totalWithDecimals": "11500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x844215f3e7ef0d2c135649c7ef8cf39c7067cba84826ce579cc475457e6a5d84",
-          "total": "6800000000000000000000",
-          "totalWithDecimals": "6800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8508b2ca15d2330b397107fc413ff5496ec170787f495e6f6bafd61373d71e55",
-          "total": "10500000000000000000000",
-          "totalWithDecimals": "10500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8709d299c5f67bd412065ac991b0584b6f9cfcade8f1644a0195a70bdf0fed25",
-          "total": "13000000000000000000000",
-          "totalWithDecimals": "13000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x25d594ff95f56c7f91d42027fbbb5b2592eed317873bc1f8fcacd33aad73041e",
-          "total": "34400000000000000000000",
-          "totalWithDecimals": "34400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0b13681a554cd3b1a10f3c7e9b0926f6761cd5d8c0865885874a7ae59a40d55a",
-          "total": "10900000000000000000000",
-          "totalWithDecimals": "10900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x62cb967234739961a7f61c8ba892a4e9aec59265c6777786c5a0a4bb9867bdda",
-          "total": "26000000000000000000000",
-          "totalWithDecimals": "26000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x6fb0754ddf60c377bca66e220c7a1266543d456aa31623141a3225e3e197fb32",
-          "total": "1500000000000000000000",
-          "totalWithDecimals": "1500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x7cc3f411b99a21677725c24232e3db0ea84d137ce01fe893d5f769eec8e682d6",
-          "total": "26500000000000000000000",
-          "totalWithDecimals": "26500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xb915234f6cb6c4bcf91e707661a20f6704028f5ed8cdba601fd20160b690404a",
-          "total": "27500000000000000000000",
-          "totalWithDecimals": "27500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xd2fe234d990b4b64fd0613b892e575c2d391268f140e0ea8b7d292f8150864f2",
-          "total": "30800000000000000000000",
-          "totalWithDecimals": "30800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0798608189e4a92958bb87eac6e3ab8b73bebb810de9208391d26a289faa06a0",
-          "total": "32700000000000000000000",
-          "totalWithDecimals": "32700",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xcf4c61f1eac40e68ce632889cda3139d6fa24c52b065cc1093b98e36517045a3",
-          "total": "3500000000000000000000",
-          "totalWithDecimals": "3500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa20cc904622104706ee06aea683a092ab0bb5b1470deb58b4cc26726451c6506",
-          "total": "5400000000000000000000",
-          "totalWithDecimals": "5400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x2df0c59febab4f10681c55c4945ef44aaf93d3bdbca79588671a26e218f58cd1",
-          "total": "12900000000000000000000",
-          "totalWithDecimals": "12900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xdabcb964d3edcaa059aba37efcadda155c48fa74e59531498f6a0be0129c6ddc",
-          "total": "8370000000000000000000",
-          "totalWithDecimals": "8370",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x55c9b4c7838c1e539322a1ef4f0e3b3b7165a511aa59b772d5f840ab590375a4",
-          "total": "47200000000000000000000",
-          "totalWithDecimals": "47200",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xe20a2b40e7ff6693f3089e50b76a55942faa0ed1ded1b436fdb3e4ade7583aa7",
-          "total": "34800000000000000000000",
-          "totalWithDecimals": "34800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xac30972a1f88ea8680268dd8e4794f28aedb720ccd9178dc9ed4c8364ace47e7",
-          "total": "10000000000000000000000",
-          "totalWithDecimals": "10000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xff4849e54397e32b88f84c66bc3f784a08b5b222750ecafd43711134ca69767c",
-          "total": "15500000000000000000000",
-          "totalWithDecimals": "15500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x859a1da7277e3c99a08a61c196d5ea00e048fc51c8ed2a18d1cfc9dfd6d1ee8c",
-          "total": "10400000000000000000000",
-          "totalWithDecimals": "10400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x711e2715a4e26e3d61e10971a00227c1f0dcb75b0e8743f2436b6b549e7aa82d",
-          "total": "7900000000000000000000",
-          "totalWithDecimals": "7900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xc4268ffd64ee574b0c4a6d83327a6d1d1c5612ffa218a3257d774fb5fda2a644",
-          "total": "8400000000000000000000",
-          "totalWithDecimals": "8400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3449572078dc0eb4fef109625bcb8498521763516cd25455b6e38c9726e43646",
-          "total": "3900000000000000000000",
-          "totalWithDecimals": "3900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8de14d69f19c3332420a21617a5074649d924e31719248260c916df41c900307",
-          "total": "12000000000000000000000",
-          "totalWithDecimals": "12000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xd6b84e97494e59b414b558fd3b7f500f0a31d9544a7f98e2ed6cdd6bf66a4d71",
-          "total": "7600000000000000000000",
-          "totalWithDecimals": "7600",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x348bd172641ee7f07ea9b58eab007aace94c6e6e0e65927ea9a2e6fc298ea09c",
-          "total": "8500000000000000000000",
-          "totalWithDecimals": "8500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xfddae1e3113656665d31ad93bb53419552a4cebdae3fed8ba3ad2303fdb0d028",
-          "total": "12000000000000000000000",
-          "totalWithDecimals": "12000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3cd58b761ab69844e7533222c01f8b9ccfeddde2cf8aa1eec5ef955bef3897d0",
-          "total": "10900000000000000000000",
-          "totalWithDecimals": "10900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xb7570cd5fc9480b7d8a8f11a6aafa256c3a7e7b03889ba35893976c1e0163bc8",
-          "total": "17900000000000000000000",
-          "totalWithDecimals": "17900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xb3ae4a73e30aaaba7ec6e062c27bfca051a542620bbd541dd1e0996c49d2ef7f",
-          "total": "10000000000000000000000",
-          "totalWithDecimals": "10000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x5870cc762b23f894bba8e0e83d4b39fdda78eb66087ccad2c9d8ff01f4985afb",
-          "total": "3900000000000000000000",
-          "totalWithDecimals": "3900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x77d7c2118cf26ddb0e360aef88c60df43355226df53ef4ab9d58550ee4755f18",
-          "total": "13500000000000000000000",
-          "totalWithDecimals": "13500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xece648bd8436403e9d79ce3ad4a1a70ddeb8059dba5d81924f8e69ef386cf856",
-          "total": "14400000000000000000000",
-          "totalWithDecimals": "14400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x17d338d9eb22e0231ce478fc4eabb1bdbb2daf5dda538b40e7be7b5c991d0ac8",
-          "total": "10100000000000000000000",
-          "totalWithDecimals": "10100",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3f1a3535ad7f2807926b844863cae2439c6f724f8916f0fc4890877fc90ecacf",
-          "total": "11600000000000000000000",
-          "totalWithDecimals": "11600",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xbef802e1e834b580c79ca39811cfe13edb39929b7cc01f1c247024431d3b3442",
-          "total": "13900000000000000000000",
-          "totalWithDecimals": "13900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x82da150b10f71f5cb5479a5c663b5c674e35e8a3b3fdb7a134eec9d8015566dc",
-          "total": "25400000000000000000000",
-          "totalWithDecimals": "25400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x56b864f468644bdb52a294bcd787b35e8fb9ce24cf47cdf37429a1b5537b8ed2",
-          "total": "5000000000000000000000",
-          "totalWithDecimals": "5000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8d08f38793ee45b7b8a79a31aaff0cd90592af362a0fdd3dfc5ad09e8a471fe5",
-          "total": "3000000000000000000000",
-          "totalWithDecimals": "3000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8a65636b72d9f68161d122acc57336a0dfd227a7974e67c0b377c39a45f47bca",
-          "total": "27500000000000000000000",
-          "totalWithDecimals": "27500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x2ccb3f9e3fa4a744beee814119fe95c095bcff6cd60da15b05f87ee741e2cdd8",
-          "total": "53692000000000000000000",
-          "totalWithDecimals": "53692",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8ca9bfa847a2388140310e8c0731cd214bef94dc8b935f2e67b693b1f8f4d965",
-          "total": "4000000000000000000000",
-          "totalWithDecimals": "4000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x589a43b8a17902eb8a1b12d9f66d9a8ce9ff6302ebf4bc2da955c5b96c6d6e21",
-          "total": "13900000000000000000000",
-          "totalWithDecimals": "13900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x5e81ce252d57d4909a5992d40dc70c78cae057c6e64e88571a0104c86f1db3c8",
-          "total": "9900000000000000000000",
-          "totalWithDecimals": "9900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xfb77215f794132443892246524806274b2f615f507e77589ead9ae51e2fcfdc5",
-          "total": "17300000000000000000000",
-          "totalWithDecimals": "17300",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xc3821b0a1afb534cdecdfb8194a9e9219168a0a33d916ed6463995adea88285f",
-          "total": "19500000000000000000000",
-          "totalWithDecimals": "19500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x571af089ad53b8f3680c394139759c2bb9d9967af4313ae78e0c1cfa3248517c",
-          "total": "40900000000000000000000",
-          "totalWithDecimals": "40900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x9a747d1b21a6c910a405f0302a2c4db547a2517d5896ee09aa0983cdc57c15b6",
-          "total": "18500000000000000000000",
-          "totalWithDecimals": "18500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xd65e16824d5d7fe02b6e2d3cdd7b8f61694c3d99c1e126252cc3240a6275f797",
-          "total": "13100000000000000000000",
-          "totalWithDecimals": "13100",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3f283db04f38eb1262f07878bb7fa35c33948b916a471e07e4b16f837170e9eb",
-          "total": "29000000000000000000000",
-          "totalWithDecimals": "29000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x2ab52a7032c005f210aa7bb033f0a72065028b00a6c0c9d4dfc5b8bb90d578fa",
-          "total": "29800000000000000000000",
-          "totalWithDecimals": "29800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x38b27487d0f746a4bc02cf0993b0ae76a9f45bbaf448d269d70d1b9c3933761c",
-          "total": "14900000000000000000000",
-          "totalWithDecimals": "14900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x9df2d6a48d041eb0904dc6c0797c7676eb6b6b5617f5929f39123917cad83b0c",
-          "total": "18896000000000000000000",
-          "totalWithDecimals": "18896",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x5255f78fac685debb0bfbc0c74f2298bb1b7d79ddb073d551726c7ad026b9b2a",
-          "total": "22000000000000000000000",
-          "totalWithDecimals": "22000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x2affbca24fefcfc22ea9835b9d476bc2810c258c4cb7b41e73e961ff0c2fa60a",
-          "total": "7900000000000000000000",
-          "totalWithDecimals": "7900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf386180b2f8c1487ff843e34bf9d81924a7680538c46ba580921befeb3460e47",
-          "total": "18700000000000000000000",
-          "totalWithDecimals": "18700",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x819a4d9df02f5fd6486eaa57b178e9df9dbf245923f638bc3e66d94654bf6805",
-          "total": "18900000000000000000000",
-          "totalWithDecimals": "18900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xfc40cf9f9e60310098deb491e1aa9bc05acef370c015eec5bcaa66341d5ed941",
-          "total": "14000000000000000000000",
-          "totalWithDecimals": "14000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x9a7e6a6b27ed42cde8ae8f8dc6c65dfd6fe9a42c873e991a8c970c4758a74765",
-          "total": "36696900000000000000000",
-          "totalWithDecimals": "36696.9",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf34399b8fa264ff10c5c15b91f02e82a30becb8ad812905fc9261f71c4da8774",
-          "total": "16000000000000000000000",
-          "totalWithDecimals": "16000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x96de059e6d41deb70bbae50a2e74431da46e617b1ff93a9a53d079d5fe1bac70",
-          "total": "122010372000000000000000",
-          "totalWithDecimals": "122010.372",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xb36483a22232f73a8e7de2b13abdebc3f39685fe6a624f3d56df12b30881244a",
-          "total": "18000000000000000000000",
-          "totalWithDecimals": "18000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x9978d83afcc9e404b64b3ea7eb04992a84b2dfb044c45fb325f7df4704cfac57",
-          "total": "249300000000000000000000",
-          "totalWithDecimals": "249300",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xd54ed8c57b7c911bb933870c985c64447cf4b56a78a2b2b15f7532111cec0e2c",
-          "total": "4200000000000000000000",
-          "totalWithDecimals": "4200",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x5e48657ed9c711be661ec059828eaf9817f28e0eacfb697bb39095822b3240bd",
-          "total": "15000000000000000000000",
-          "totalWithDecimals": "15000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x92c8a44ccaa3390e2556c48d51b5576cb7d6ae08f2973d084bc9554b796f3d2f",
-          "total": "9300000000000000000000",
-          "totalWithDecimals": "9300",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xfd8b30811b14eb89faae5e0a78793b81c866431d6da30b0c7084c657c9d13b57",
-          "total": "12900000000000000000000",
-          "totalWithDecimals": "12900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xe7df79ccf9e74ee13d21183a50abab026146b8eb4b2d0dcfd91d4b0980a5935a",
-          "total": "8500000000000000000000",
-          "totalWithDecimals": "8500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xb3c0954b41741f8b997905309aed8081f561462032e5a374232e3096b3fa763b",
-          "total": "13400000000000000000000",
-          "totalWithDecimals": "13400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x877992d6044c88ab96f967abba7791d14c523996745bf3ead64c5efc3c743af8",
-          "total": "800000000000000000000",
-          "totalWithDecimals": "800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x4e5a3314b9dbdae6f1ec327f5feacda242167707665a7f6a75ef91f6bc117e50",
-          "total": "21300000000000000000000",
-          "totalWithDecimals": "21300",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf9e47b34c20783be3f1e0d62c4f5e90f7002e5f3a6b345467901a4212e9d6736",
-          "total": "10300000000000000000000",
-          "totalWithDecimals": "10300",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xbe1669dbb058015d9602943347fe58598ca0a4a3a91d2ec41b083853e63c0b2d",
-          "total": "19300000000000000000000",
-          "totalWithDecimals": "19300",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf4912b4c92fe2c02f27e519e16845f3a3f20c906fa0ede1e65d7d0e16b4b75e5",
-          "total": "22000000000000000000000",
-          "totalWithDecimals": "22000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa264c89f8bd61c2724846d4de9a5adc8d4a2dd9147f5488800137a9be24245d5",
-          "total": "8500000000000000000000",
-          "totalWithDecimals": "8500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xef27bd24926b1c2e78e3ac799f7a7a8e74639c6f3b98dc8490f8d7b942038dac",
-          "total": "16000000000000000000000",
-          "totalWithDecimals": "16000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xac8d938c79aceb2543a104164030dc5f1196e94bb634ca42b362c264562163eb",
-          "total": "8100000000000000000000",
-          "totalWithDecimals": "8100",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x98e024cf7d02100d786d186f34f84aa064a43fc1660b0e11c50c12f41f3d5ca6",
-          "total": "6500000000000000000000",
-          "totalWithDecimals": "6500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x396a4d3afecfd664ad43d43d5e57276e1f530d19ab7ca0ceefc1b459ad2d9c9a",
-          "total": "7500000000000000000000",
-          "totalWithDecimals": "7500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x382cec1964315fe3e723222df4fc726e27d9177e30b4b5c016942e101b7ed4f9",
-          "total": "5450000000000000000000",
-          "totalWithDecimals": "5450",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x63ff138611be0a56d9bec3f3612471aeb329b0f868b5350e45644644303d6a5a",
-          "total": "7850000000000000000000",
-          "totalWithDecimals": "7850",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x53351f5306204a50d5c891383715522bfddf5d126a366aa5fd8d38683bb3f022",
-          "total": "1700000000000000000000",
-          "totalWithDecimals": "1700",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xb32829a63a0049a68151d71b96b6a37936865d350571b696494f26270dbe388f",
-          "total": "15900000000000000000000",
-          "totalWithDecimals": "15900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3933540e94ebd5055dac9621031521373acd802a56f80abe0856dba1839db5c7",
-          "total": "8750000000000000000000",
-          "totalWithDecimals": "8750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x920c223fcef2a64e29f5ee7bd0eb2cca0e3401537a99a8191255b4cf2d5c5360",
-          "total": "12750000000000000000000",
-          "totalWithDecimals": "12750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0ee1364241bda4eedca25cfce0f3a75ebb1faafb053698ecd844e24ed4947b46",
-          "total": "3750000000000000000000",
-          "totalWithDecimals": "3750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xb7b9ac94f35e83fd05119591071018dc332f59df4b2ff373ca0bbfdbbcee3765",
-          "total": "6000000000000000000000",
-          "totalWithDecimals": "6000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xd37533969ef1635a636cd79162af5b3b97d524cf460a51ad453627b614f2b969",
-          "total": "5500000000000000000000",
-          "totalWithDecimals": "5500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x9a02cb4d3e20690a92eb26455f8d7ff6ec4d79d3db81734e5086d4a6cba2235d",
-          "total": "4400000000000000000000",
-          "totalWithDecimals": "4400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x7607fc9f2aaa66dc7b3ee674efc16826843c64b3ca34a16cef07e0195bd500f9",
-          "total": "10500000000000000000000",
-          "totalWithDecimals": "10500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x4a21a82fdc45932ad22156db3ac54b6db8780ae711e153d69e59c685a73f25ae",
-          "total": "5000000000000000000000",
-          "totalWithDecimals": "5000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x2bb4aaecc7dc45e9d3f403c1832a33a4b689c63d2d3354fc3f18be5cfa1666bd",
-          "total": "7900000000000000000000",
-          "totalWithDecimals": "7900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x405139861ed4c0399f15e79b84e458d53156100b9526172966fe72f375bcf1a1",
-          "total": "11800000000000000000000",
-          "totalWithDecimals": "11800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0456ce3b87e877d893f982d2730c1a7944c2a19356eb6d6e234cf2e964e4a289",
-          "total": "4800000000000000000000",
-          "totalWithDecimals": "4800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xceca564621428235207759ffaaa7df16c3756d75592e3483d47774e5e1366758",
-          "total": "17912320000000000000000",
-          "totalWithDecimals": "17912.32",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x1190d0aba7173859442b5d9f6c7dff6a4176573c219b5e3b38495b0ec63002e3",
-          "total": "12000000000000000000000",
-          "totalWithDecimals": "12000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x19901276c47ea7c1bb3138a2570cd1048b48cd3c33026771766b9e3e715e6004",
-          "total": "15000000000000000000000",
-          "totalWithDecimals": "15000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xff89ab6fc6352c67ce832fd22818b51d392a89060d97c0e81bbf12742e961c4a",
-          "total": "6000000000000000000000",
-          "totalWithDecimals": "6000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x56d93dbd6b5c37a12549cff4c6c0610f4cc32c4c33be69565dc235df8e1c79f8",
-          "total": "11800000000000000000000",
-          "totalWithDecimals": "11800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa397c832e8bb2684d3bcfcace5551a255467e90a878b9864173b0391629228b2",
-          "total": "9250000000000000000000",
-          "totalWithDecimals": "9250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x9b6a891bc32c90ce4ee69cc6b543be295825f754330729cbc84921f2089c112d",
-          "total": "13450000000000000000000",
-          "totalWithDecimals": "13450",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x81bbe52838428e3835ddbfb473d617c347f12ea7bf3700e79daa5fea5871b08e",
-          "total": "15250000000000000000000",
-          "totalWithDecimals": "15250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xd16932084ca6bbe85f5defe667052b680e9849e7e501666a8b429af50cfef874",
-          "total": "23800000000000000000000",
-          "totalWithDecimals": "23800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x15e3c72ba15a1406353be4ed8667166abfadb55760e847a6ad8de4da6cf14a8d",
-          "total": "8250000000000000000000",
-          "totalWithDecimals": "8250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xec50c1bedea766830f5ea8c669f2fb5ebb3392c1cc74bb9b238fcb9ed6be75fb",
-          "total": "8200000000000000000000",
-          "totalWithDecimals": "8200",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x6f8a85994662dfc9a927b365150e3f8f4b7c8db91562061ce4ce927c1b2632ac",
-          "total": "21250000000000000000000",
-          "totalWithDecimals": "21250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xc28c4d5f1dcccde557301d173c9317575c87156216dc88287989c739db3432dd",
-          "total": "6750000000000000000000",
-          "totalWithDecimals": "6750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xd81825c5807e7a9d727eb0940395ab451e5b71a99f514e3564ea0a7407c33305",
-          "total": "7650000000000000000000",
-          "totalWithDecimals": "7650",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x79082c4549b9f257227b55371f9d837ec61bc188fbc648063c0e4f030f51b8a7",
-          "total": "8000000000000000000000",
-          "totalWithDecimals": "8000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0ec80d705584f4cd588abaa137f51ef297a42578334dcea6a664aab02088db0b",
-          "total": "7400000000000000000000",
-          "totalWithDecimals": "7400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x79d03719eb1757ab7059ae85e9b06995ae89313366db2b06ff9fcfaebb87b28b",
-          "total": "10900000000000000000000",
-          "totalWithDecimals": "10900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa08e41c8c4db22afa169def99fa1c7d9348eb1e260120b9100ee77af94c4b630",
-          "total": "13500000000000000000000",
-          "totalWithDecimals": "13500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf6784ea57506421544d062659d6e356e8641cae980b6c52b700fea1d8aeaabde",
-          "total": "2400000000000000000000",
-          "totalWithDecimals": "2400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x354b050a5a19ace5f2ec61a8f231597b0a6e112c76f8e72f2f828b7ec82a7c90",
-          "total": "18500000000000000000000",
-          "totalWithDecimals": "18500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xe2333532ded5fdf523c558f9b38d9cec657a2641f69fbe67eba38e5cef57ec7f",
-          "total": "4500000000000000000000",
-          "totalWithDecimals": "4500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x6219b0da269bc2cc828ee9085c9e68a50647664047de2224a3b7275ff0ccbcdc",
-          "total": "4250000000000000000000",
-          "totalWithDecimals": "4250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x12ad52a5dbcbc26431af7989d2981ca8dcfeef83d39d1223c8b990acef6ffd79",
-          "total": "4250000000000000000000",
-          "totalWithDecimals": "4250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0178beec0ce90ef666aca7c743514819ce893aabe61a871708ffc0587199e19d",
-          "total": "4750000000000000000000",
-          "totalWithDecimals": "4750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xde54bb4e21d725035407e6195336c6a498b0135a76339666eda3f5e78358b221",
-          "total": "2600000000000000000000",
-          "totalWithDecimals": "2600",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x6032858ce30452906f9360a1c3869b2cf51fd14564dd530b46d97a269475433e",
-          "total": "6400000000000000000000",
-          "totalWithDecimals": "6400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xe90ffbfd92b7c76d29a1bca0ced6786a8027175c40beb0755f6e94b8c764cd34",
-          "total": "7650000000000000000000",
-          "totalWithDecimals": "7650",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x2b178e26da12db96918920df90388592e87f85e0681c9b3b6007f6ff36e200d7",
-          "total": "6000000000000000000000",
-          "totalWithDecimals": "6000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xb0395715aa41abf2548c91f2baea3a32ae0fd957f641f6b919c7982d9b0ad928",
-          "total": "2850000000000000000000",
-          "totalWithDecimals": "2850",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x877d9768cfc5599f6a35ae67583e6cf8fc3a07db72abd53828a0d87e32d9c56e",
-          "total": "7000000000000000000000",
-          "totalWithDecimals": "7000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x1162f7529aa30aeaebaa5a9495222d4f4497dea49cbfcb2524a4f3f0392fdc32",
-          "total": "3900000000000000000000",
-          "totalWithDecimals": "3900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0fd53dca9b8a97e67a574b50e87d34aaa5f5d8a42015e89d1f738bc1449c406c",
-          "total": "5500000000000000000000",
-          "totalWithDecimals": "5500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa879f8cf71b545ccf49db957d4849911e07d7060cd3fb9296721b7f6626138eb",
-          "total": "5250000000000000000000",
-          "totalWithDecimals": "5250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x040afa8e756c21a6e7a898b5bb3d5f087b2998fdc6fefb4436b919089557ac9f",
-          "total": "7400000000000000000000",
-          "totalWithDecimals": "7400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x24027fd3db3da134427781e4ed5c05360250d7baa52ce0d5eee6dc8845737615",
-          "total": "10850000000000000000000",
-          "totalWithDecimals": "10850",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xc75a471d1b90a233f75edcb840162dd8ee136264642f6e35b7ef37110fe37b1c",
-          "total": "1250000000000000000000",
-          "totalWithDecimals": "1250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x59ff15c2e388ff556d41e420e467b933bb94c7ebfd67dd467a2bc535a5807338",
-          "total": "2750000000000000000000",
-          "totalWithDecimals": "2750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3ca600e3f1b33ab19a86e4ae8fd3018b075b56ba2b529fa8d53153357288ee52",
-          "total": "1400000000000000000000",
-          "totalWithDecimals": "1400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xce0054a56efc9657a8b2874157b22797d52d51c450d9bd6c642de30b10e83d9e",
-          "total": "2500000000000000000000",
-          "totalWithDecimals": "2500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x844a6789c255cac37eba17791c710c0c805386b351b95ea6655ae697b4074f90",
-          "total": "2000000000000000000000",
-          "totalWithDecimals": "2000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8e7f21b4c6ec7bce750e044efc677e6cfded81147502b717fdd4a0834502a44b",
-          "total": "1300000000000000000000",
-          "totalWithDecimals": "1300",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x223c9aa21f677fab82cff49a61dad9912c29599aaca4bcecc6245ade0635806a",
-          "total": "2376640950000000000000",
-          "totalWithDecimals": "2376.64095",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3246ae3d7796563a567773aadb8765aff58fb9bceb5c6b5db05259709c0e019e",
-          "total": "1750000000000000000000",
-          "totalWithDecimals": "1750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xb67f59e043ea9713b36b867d52762c34778b75d23e48d4ee5324f9f54df3a3d6",
-          "total": "1650000000000000000000",
-          "totalWithDecimals": "1650",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x79c0b66cc10a77286223e7abd613452b0894e51ce710cca913345a58ab7baba8",
-          "total": "13250000000000000000000",
-          "totalWithDecimals": "13250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xcb1ee18edd84ac0e7183df500440523aca9819d362db0fc90c78698df52a5485",
-          "total": "2000000000000000000000",
-          "totalWithDecimals": "2000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf73494bf87608a318f38893f91b2e97eb78e92474f18904abbb78a24926cd1e0",
-          "total": "5150000000000000000000",
-          "totalWithDecimals": "5150",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x5dd573c2ad10a9f730f07fe76872efc75d65dadc881196e07ec9fac926f4e094",
-          "total": "4500000000000000000000",
-          "totalWithDecimals": "4500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x4037b2d10f08a2e50130256941208ec90eba72ff37d8b6f07a3113fea96327b8",
-          "total": "5250000000000000000000",
-          "totalWithDecimals": "5250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa8f245e010ae773b7b583304443802e9d55929f125fe084e00f2c2f60b2b283e",
-          "total": "1250000000000000000000",
-          "totalWithDecimals": "1250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x185851909354e64208a2eb894f66bb5bf12eb10e0bdb27b5663d090b80656e34",
-          "total": "4800000000000000000000",
-          "totalWithDecimals": "4800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0578ebf9cab6059fc1f21868d8a8eb6609dc3c5d8b8e9c98bffb1e799d7f3d51",
-          "total": "8000000000000000000000",
-          "totalWithDecimals": "8000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x2ee7ea503ffe52e9b8a09976865f975123639ac9fdb950b4d0951e40586375d1",
-          "total": "1700000000000000000000",
-          "totalWithDecimals": "1700",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x313126ae79ace591ca4a0adeff6fb6965634a2ecb0089ce61bd05d5a320ffdf0",
-          "total": "4100000000000000000000",
-          "totalWithDecimals": "4100",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x1fc3ed89825b037111430f15ce01b65f543ada7347e6e7c67bfe1da610e1fc5f",
-          "total": "4500000000000000000000",
-          "totalWithDecimals": "4500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xcabfaa7690f2f75821741e8fbc20e12c400946751f8cce048e954aecf04c6d6a",
-          "total": "8260000000000000000000",
-          "totalWithDecimals": "8260",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xdf143116226d0ebcbe6fb752092f11997d43be9b9d27bba9c4e7eec2f7cc8b50",
-          "total": "730000000000000000000",
-          "totalWithDecimals": "730",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x4fa87d335f007497616bcc1b78ea2dce20c5bdd9b632c1c848eb5f171f28b00e",
-          "total": "3000000000000000000000",
-          "totalWithDecimals": "3000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xad7f8d349afdaca4913d43b1e938595061c28c51713ffc361ba31f004cfff926",
-          "total": "11450000000000000000000",
-          "totalWithDecimals": "11450",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x102087a4712db5ec3feaec6417d210d38e606003ed095905a3904d803fbc12fd",
-          "total": "28449000000000000000000",
-          "totalWithDecimals": "28449",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x72e528bf29d2538ad9a60f9653652bca4a5f59d0d9651b79b19fdcebabd0d691",
-          "total": "5750000000000000000000",
-          "totalWithDecimals": "5750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xc1e3b9e0154cee1f4011180d9205b75ef4da43893abbe540cfb31715af117235",
-          "total": "6250000000000000000000",
-          "totalWithDecimals": "6250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf9f42d6b0c9788d3ac05e28f8d6e8c50ac8340217256b27fd0de093e0ee27a83",
-          "total": "1250000000000000000000",
-          "totalWithDecimals": "1250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x15faddebd9c0f4b634e2393888872e2c1f81781e79cb52ea2cd836f6979f429f",
-          "total": "3500000000000000000000",
-          "totalWithDecimals": "3500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x571831157ce7ead7aea9a0ecaff133d8e31d66c817778fe402b13039badadb0a",
-          "total": "6000000000000000000000",
-          "totalWithDecimals": "6000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xdd3bb9e6b25886dfcc12daac30635d69f4bfe8d6256a03acbec47d6c85ec5de7",
-          "total": "13500000000000000000000",
-          "totalWithDecimals": "13500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x7b44615c83e4c45ef598782b0d2475bf155f2c1d26c33e4df7e99b338321e3b8",
-          "total": "9500000000000000000000",
-          "totalWithDecimals": "9500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x59be06a5eda3fff09c19fed605ac6bdc143c747a9d76dac4dd3843770f823f8f",
-          "total": "6000000000000000000000",
-          "totalWithDecimals": "6000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x256c7d1405778f78f4e2cd6279699d84be9225f8ce335a0ea62efad7ef01784c",
-          "total": "2900000000000000000000",
-          "totalWithDecimals": "2900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0137a332fe2eb7f46d6de0742b4c536fc78b01d66387fc1ca938bed5696fde65",
-          "total": "5200000000000000000000",
-          "totalWithDecimals": "5200",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xfdaa28a2bde0c0019f4954b1f703310fd704676ec609b42784012526efe2e59c",
-          "total": "3000000000000000000000",
-          "totalWithDecimals": "3000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x3895c006ced95a1ea254eab06d858652850dd51137a4b42a73055f1f0b50f81a",
-          "total": "1750000000000000000000",
-          "totalWithDecimals": "1750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x2c57789b80d4442eff458a322562de02c4cdd95e763b743908b5f6a6abae89cf",
-          "total": "6750000000000000000000",
-          "totalWithDecimals": "6750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x77a3d04121e8470efc408107eb26a0f21d3e96282bd740ea7c5f6346fd9293a8",
-          "total": "5000000000000000000000",
-          "totalWithDecimals": "5000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x718e156961a978f77a02f2933aebb20f730437d6f84e23d26022c94ea164b0ba",
-          "total": "4250000000000000000000",
-          "totalWithDecimals": "4250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x9b9daf532812cdddd73cb50b97604124a209dc58059d4100faae1ee6e0e328d4",
-          "total": "6750000000000000000000",
-          "totalWithDecimals": "6750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x928ccc5038a4913bab8a14660c0a1a23e82594116a005dd32432525381c679e6",
-          "total": "9400000000000000000000",
-          "totalWithDecimals": "9400",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x8ceab671716d91c11f4b08b50b2855346038bbbf4e00c0be6a46943839cec605",
-          "total": "20700000000000000000000",
-          "totalWithDecimals": "20700",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x401c60c8cf6dd3d2cab765e431566ead1489f953f3a59265df897e4130b8edbf",
-          "total": "35500000000000000000000",
-          "totalWithDecimals": "35500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x79da9755c8c468d82f5365d48b032ec17f7479f48842d246326d1d0a7cdf467c",
-          "total": "9000000000000000000000",
-          "totalWithDecimals": "9000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xe2f5fb4452b7c24f7e7b8569a82dce2839506624248b6bb8d9d5b6efca1c12c4",
-          "total": "5750000000000000000000",
-          "totalWithDecimals": "5750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x7bae324b77a521af99e6d485f3932bd1938e44d4e0245ef5cd84b9e5fbe2eeb9",
-          "total": "26750000000000000000000",
-          "totalWithDecimals": "26750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x6de61953ce1289da642ef98dfae4ea5b8a15dafabed96555157c2afcce5babff",
-          "total": "7000000000000000000000",
-          "totalWithDecimals": "7000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xe7950925e96c6baa44b14f4cdedd90f07d18dcf96f18d833e4b43cfb87086e58",
-          "total": "2200000000000000000000",
-          "totalWithDecimals": "2200",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xfd0c07d0b85aaabc4244d250a4f93d0b1e0a4bf2bfd811705f7db39b20fdccaf",
-          "total": "8250000000000000000000",
-          "totalWithDecimals": "8250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x28aa7786876d201ddc1e69a90d11e1490087246c682a8ba97cb306437551dbb5",
-          "total": "1750000000000000000000",
-          "totalWithDecimals": "1750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x1c55a27dc336452619cf81842cd8f0a9de53d35737bb1e85b93f45f63f6ce976",
-          "total": "2450000000000000000000",
-          "totalWithDecimals": "2450",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x4aacb402971cad52c4db7455717f7fb5f101be1d19c08a8435f9dc1fa1995786",
-          "total": "20950000000000000000000",
-          "totalWithDecimals": "20950",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x43b7528796533348d42d6539b027c5a77d3ed72ab974c42e9b385e430f4ff3d4",
-          "total": "7300000000000000000000",
-          "totalWithDecimals": "7300",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf40393195aa4187c491bc1b883e277bf7b4cea5ba823f3394218782eb8456c42",
-          "total": "1700000000000000000000",
-          "totalWithDecimals": "1700",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x352c46e46bb1931c944f6c0da8b516be524b41ebcb71b243ab2cc2ca6bf77839",
-          "total": "5950000000000000000000",
-          "totalWithDecimals": "5950",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf2ea2917cd27d56ba380968c8e75acafae68662f8c9729e1a5b0f97f93ccdd9a",
-          "total": "7000000000000000000000",
-          "totalWithDecimals": "7000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x768056e47686984f983cf74e5850affe17bc3558339c57ef68e462b6532e1226",
-          "total": "2000000000000000000000",
-          "totalWithDecimals": "2000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xd49d79fdc07520d31e35ed81325a30a56a6c92c975c0f522862d51ec9e9d8f9d",
-          "total": "2700000000000000000000",
-          "totalWithDecimals": "2700",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x552388e6f5773f216ea6b3fdd7840bea98c35e63bc452815380e2747525a964a",
-          "total": "22000000000000000000000",
-          "totalWithDecimals": "22000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xe0c390fcb7487300795d8ff8a26fe7669df77e75654e766ecf8808185b956333",
-          "total": "2450000000000000000000",
-          "totalWithDecimals": "2450",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa2f996064ec7a6c9268c96184bff27d562966c288688f4e202ff70bbe5b28cb3",
-          "total": "5500000000000000000000",
-          "totalWithDecimals": "5500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa90c2a3b40dbe5adcd4fa2169b3c8e3c80a8c4998eb525533611e964dc180e20",
-          "total": "1700000000000000000000",
-          "totalWithDecimals": "1700",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x44c3804de5acb123d01cee57cc1d5e6a8d55625a4b559450b13cd7fc991f5d2e",
-          "total": "1950000000000000000000",
-          "totalWithDecimals": "1950",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xa94017955584cbaee9aba894d00098e70e8e1c5d6c5adf641d5ad977ce2de690",
-          "total": "3050000000000000000000",
-          "totalWithDecimals": "3050",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xe0e6eb210241a8ed11f0ca423dd1a86ca70dc8db5e52211741d1bca159bd3c9f",
-          "total": "40800000000000000000000",
-          "totalWithDecimals": "40800",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x11007548d437fa4adb94dacb2a88bc8fee70aa3147ba70e9abe30d6c2c575de6",
-          "total": "2250000000000000000000",
-          "totalWithDecimals": "2250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x9e23edb196399645752cf87d4c525212cc1593e3a27938cef10824e69ed9ac0b",
-          "total": "8250000000000000000000",
-          "totalWithDecimals": "8250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xae0c1a8ac13dd513a579faf9270e7f871f9fb471ffca4598c73abb32e13f0862",
-          "total": "3750000000000000000000",
-          "totalWithDecimals": "3750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xb9a2f455d2ea324ee65fb235e0695c0bb680e205f31aa3a693feee3859c8d9fe",
-          "total": "7000000000000000000000",
-          "totalWithDecimals": "7000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x512871b1b88ffb94eb728d79dc6e34a96d0f3093ebc655b8ad907af49a61e516",
-          "total": "32500000000000000000000",
-          "totalWithDecimals": "32500",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x40c2aa1f827e7e7c296a44ca2a27ee8877aa46b947917abb7551a30714636852",
-          "total": "2900000000000000000000",
-          "totalWithDecimals": "2900",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x0a51390f7d419f8a884a4ee2cc96fbcc2249568c04246a454268cd2390983f2d",
-          "total": "7700000000000000000000",
-          "totalWithDecimals": "7700",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x99717907b3cdb28576a723d9639db3c7ceef3de30edfa97d37770444f9c2bffb",
-          "total": "4750000000000000000000",
-          "totalWithDecimals": "4750",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf9d50857705934144ee86f529b50f48b355074fa363b65f1784881386ca71d90",
-          "total": "6000000000000000000000",
-          "totalWithDecimals": "6000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x9f0f4a8a17b7ba1e0965f52fa07822a14c18debba623bfd2423cb18080405e5d",
-          "total": "3450000000000000000000",
-          "totalWithDecimals": "3450",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x6729bfbf285390035820bdddddc2056d81a7f62365655f910326dfdaa3fdec34",
-          "total": "950000000000000000000",
-          "totalWithDecimals": "950",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xdbaccdd1db3d0e511aee0d0d2b82693e5401975334e0849b3b3bfc3296b6b9b4",
-          "total": "22000000000000000000000",
-          "totalWithDecimals": "22000",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x070e1c431ca4b3e1b960f01d0da7063cd069c7be9355130e4ce3fec9bffb230b",
-          "total": "33598000000000000000000",
-          "totalWithDecimals": "33598",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xf4294fdb924e58ab7c330e11fad52d9d75b2477e2df0f5fe52feb071dc19122b",
-          "total": "4200000000000000000000",
-          "totalWithDecimals": "4200",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x301bd4be2fcc7a4ab0b0b5e2a3dcb8ff777fb3640bc174c0a3be05c2da89710c",
-          "total": "3250000000000000000000",
-          "totalWithDecimals": "3250",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x7f269b4d56ad62d8e27020a9b6e07a9c4984c055faf71efc57dfc2a29c685dd3",
-          "total": "950000000000000000000",
-          "totalWithDecimals": "950",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0xabc5a123e0e3b416cce6cbd642f1fa603b64dc09300f658d817e449c53f5bddf",
-          "total": "7450000000000000000000",
-          "totalWithDecimals": "7450",
-          "totalUsd": "NaN"
-        },
-        {
-          "txHash": "0x1c1623986e42ceedc86ea4844a6a5da48f451a478ea21fe45b7ee12d06e0593f",
-          "total": "2800000000000000000000",
-          "totalWithDecimals": "2800",
+          "txHash": "0x40ffc4636014d60a1e6a788b16a55f3c3e6ff0ae1a14b44e10916008b9ba51cc",
+          "total": "57283454579120000000000",
+          "totalWithDecimals": "57283.45457912",
           "totalUsd": "NaN"
         }
       ],
-      "valueWithDecimals": "18603501.84833",
+      "valueWithDecimals": "2633086.17872227",
       "decimals": 18,
-      "symbol": "GUNTHY",
-      "name": "GUNTHY",
+      "symbol": "CND",
+      "name": "Cindicator Token",
       "usdValue": "0.00"
     }
   ],
@@ -37280,6 +35863,1423 @@
     }
   ],
   [
+    "0x3684b581dB1F94b721EE0022624329FEb16Ab653",
+    {
+      "value": "18603501848330000000000000",
+      "txs": [
+        {
+          "txHash": "0x61d6a04e0c87d6b89ec781d1f708d35ca75454c6a5ff3f933daa7982159455a5",
+          "total": "15000000000000000000000",
+          "totalWithDecimals": "15000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb1b2e6fa46abf779afc4de1cd0d7651325af0b37707c5607f5db04c1e900a145",
+          "total": "400000000000000000000000",
+          "totalWithDecimals": "400000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x8b01b7fd2c9b3aa68fd0465afb27b705a693e36ab8dd8eac17b60011a4be8e4f",
+          "total": "412000000000000000000000",
+          "totalWithDecimals": "412000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa7dd27de9908f91bbde235c6700fe545cd567851ede858db7472b88b7fab94bc",
+          "total": "491000000000000000000000",
+          "totalWithDecimals": "491000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb600f676cc0a3dbd23fb8c2fcb77a3cf5c2b7a1fc19f7660105b6dda1095be0d",
+          "total": "13586000000000000000000000",
+          "totalWithDecimals": "13586000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x71d8ebe3d39ea4e84e0ae530167bebebfb302634464cffe3265eea10f53a0766",
+          "total": "210082615380000000000000",
+          "totalWithDecimals": "210082.61538",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x86f40cc476467ae45c3c8d60fd1b44bb782453710a6ceb1ca7fb8e6aa289a18f",
+          "total": "313300000000000000000000",
+          "totalWithDecimals": "313300",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x5b521d00cbdfe470e658ae07fa4303d50ddbe72f6189d44589d83ef7f00d967f",
+          "total": "28327000000000000000000",
+          "totalWithDecimals": "28327",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x1e3a62bc9f139ca501654ae6f1e2a6f6bc866a95120d6a20d244e032ad207233",
+          "total": "150800000000000000000000",
+          "totalWithDecimals": "150800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x437b5d3a2c7aa2e57bf862b8dbf164eb386f7848a31f165b4dc17cedf3d3027c",
+          "total": "97800000000000000000000",
+          "totalWithDecimals": "97800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0622d1ec892dd7867ee4fe31430e316f46c5deb9634db37dd85444e2a0821496",
+          "total": "72100000000000000000000",
+          "totalWithDecimals": "72100",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xef803fe41c871dc95cec150676dd0459c57e14b5d9d66c9a4465e191ee60765d",
+          "total": "4500000000000000000000",
+          "totalWithDecimals": "4500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xd7a2998e7c91c741f02be6b8fea47d240a922bdf9633650c45682969daf9f958",
+          "total": "5000000000000000000000",
+          "totalWithDecimals": "5000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x1faf66e4a909328f0cb1c8735b98a0d79d30d3b91035307978df991ef9bfa754",
+          "total": "71499000000000000000000",
+          "totalWithDecimals": "71499",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x956bb493f053520ded021f1cf9d011af5b786a1c968490912b5e2dd001803bfa",
+          "total": "4002000000000000000000",
+          "totalWithDecimals": "4002",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x233e7ec203317f77a4ffdc06db9f57c00a8d86f30345fe54360b239a6a43c64c",
+          "total": "3500000000000000000000",
+          "totalWithDecimals": "3500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x6ed9ae71a0edacea8d0d3bf28026b11c9e3c6a2153933cc15d16723e3abdb4b9",
+          "total": "33000000000000000000000",
+          "totalWithDecimals": "33000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x99d6ebbcdb4961bca834bd74527e597b58911751e918426d2aae358ab017ef31",
+          "total": "10400000000000000000000",
+          "totalWithDecimals": "10400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x3b80032f7d935ba6fee12c5a47f0cdc29fa6a0423eeb5cf13ae45ac1c02baa30",
+          "total": "32500000000000000000000",
+          "totalWithDecimals": "32500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xfc066cf33bed17be78c5231c5add1d2a56571b690beb25234b22a55d50116f59",
+          "total": "13900000000000000000000",
+          "totalWithDecimals": "13900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x7f3d764f6f8a35c957f8ddfd2197a02cd553fe0449ea20b18d2be184ee08c151",
+          "total": "11500000000000000000000",
+          "totalWithDecimals": "11500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x844215f3e7ef0d2c135649c7ef8cf39c7067cba84826ce579cc475457e6a5d84",
+          "total": "6800000000000000000000",
+          "totalWithDecimals": "6800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x8508b2ca15d2330b397107fc413ff5496ec170787f495e6f6bafd61373d71e55",
+          "total": "10500000000000000000000",
+          "totalWithDecimals": "10500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x8709d299c5f67bd412065ac991b0584b6f9cfcade8f1644a0195a70bdf0fed25",
+          "total": "13000000000000000000000",
+          "totalWithDecimals": "13000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x25d594ff95f56c7f91d42027fbbb5b2592eed317873bc1f8fcacd33aad73041e",
+          "total": "34400000000000000000000",
+          "totalWithDecimals": "34400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0b13681a554cd3b1a10f3c7e9b0926f6761cd5d8c0865885874a7ae59a40d55a",
+          "total": "10900000000000000000000",
+          "totalWithDecimals": "10900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x62cb967234739961a7f61c8ba892a4e9aec59265c6777786c5a0a4bb9867bdda",
+          "total": "26000000000000000000000",
+          "totalWithDecimals": "26000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x6fb0754ddf60c377bca66e220c7a1266543d456aa31623141a3225e3e197fb32",
+          "total": "1500000000000000000000",
+          "totalWithDecimals": "1500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x7cc3f411b99a21677725c24232e3db0ea84d137ce01fe893d5f769eec8e682d6",
+          "total": "26500000000000000000000",
+          "totalWithDecimals": "26500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb915234f6cb6c4bcf91e707661a20f6704028f5ed8cdba601fd20160b690404a",
+          "total": "27500000000000000000000",
+          "totalWithDecimals": "27500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xd2fe234d990b4b64fd0613b892e575c2d391268f140e0ea8b7d292f8150864f2",
+          "total": "30800000000000000000000",
+          "totalWithDecimals": "30800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0798608189e4a92958bb87eac6e3ab8b73bebb810de9208391d26a289faa06a0",
+          "total": "32700000000000000000000",
+          "totalWithDecimals": "32700",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xcf4c61f1eac40e68ce632889cda3139d6fa24c52b065cc1093b98e36517045a3",
+          "total": "3500000000000000000000",
+          "totalWithDecimals": "3500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa20cc904622104706ee06aea683a092ab0bb5b1470deb58b4cc26726451c6506",
+          "total": "5400000000000000000000",
+          "totalWithDecimals": "5400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2df0c59febab4f10681c55c4945ef44aaf93d3bdbca79588671a26e218f58cd1",
+          "total": "12900000000000000000000",
+          "totalWithDecimals": "12900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xdabcb964d3edcaa059aba37efcadda155c48fa74e59531498f6a0be0129c6ddc",
+          "total": "8370000000000000000000",
+          "totalWithDecimals": "8370",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x55c9b4c7838c1e539322a1ef4f0e3b3b7165a511aa59b772d5f840ab590375a4",
+          "total": "47200000000000000000000",
+          "totalWithDecimals": "47200",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xe20a2b40e7ff6693f3089e50b76a55942faa0ed1ded1b436fdb3e4ade7583aa7",
+          "total": "34800000000000000000000",
+          "totalWithDecimals": "34800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xac30972a1f88ea8680268dd8e4794f28aedb720ccd9178dc9ed4c8364ace47e7",
+          "total": "10000000000000000000000",
+          "totalWithDecimals": "10000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xff4849e54397e32b88f84c66bc3f784a08b5b222750ecafd43711134ca69767c",
+          "total": "15500000000000000000000",
+          "totalWithDecimals": "15500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x859a1da7277e3c99a08a61c196d5ea00e048fc51c8ed2a18d1cfc9dfd6d1ee8c",
+          "total": "10400000000000000000000",
+          "totalWithDecimals": "10400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x711e2715a4e26e3d61e10971a00227c1f0dcb75b0e8743f2436b6b549e7aa82d",
+          "total": "7900000000000000000000",
+          "totalWithDecimals": "7900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xc4268ffd64ee574b0c4a6d83327a6d1d1c5612ffa218a3257d774fb5fda2a644",
+          "total": "8400000000000000000000",
+          "totalWithDecimals": "8400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x3449572078dc0eb4fef109625bcb8498521763516cd25455b6e38c9726e43646",
+          "total": "3900000000000000000000",
+          "totalWithDecimals": "3900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x8de14d69f19c3332420a21617a5074649d924e31719248260c916df41c900307",
+          "total": "12000000000000000000000",
+          "totalWithDecimals": "12000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xd6b84e97494e59b414b558fd3b7f500f0a31d9544a7f98e2ed6cdd6bf66a4d71",
+          "total": "7600000000000000000000",
+          "totalWithDecimals": "7600",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x348bd172641ee7f07ea9b58eab007aace94c6e6e0e65927ea9a2e6fc298ea09c",
+          "total": "8500000000000000000000",
+          "totalWithDecimals": "8500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xfddae1e3113656665d31ad93bb53419552a4cebdae3fed8ba3ad2303fdb0d028",
+          "total": "12000000000000000000000",
+          "totalWithDecimals": "12000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x3cd58b761ab69844e7533222c01f8b9ccfeddde2cf8aa1eec5ef955bef3897d0",
+          "total": "10900000000000000000000",
+          "totalWithDecimals": "10900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb7570cd5fc9480b7d8a8f11a6aafa256c3a7e7b03889ba35893976c1e0163bc8",
+          "total": "17900000000000000000000",
+          "totalWithDecimals": "17900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb3ae4a73e30aaaba7ec6e062c27bfca051a542620bbd541dd1e0996c49d2ef7f",
+          "total": "10000000000000000000000",
+          "totalWithDecimals": "10000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x5870cc762b23f894bba8e0e83d4b39fdda78eb66087ccad2c9d8ff01f4985afb",
+          "total": "3900000000000000000000",
+          "totalWithDecimals": "3900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x77d7c2118cf26ddb0e360aef88c60df43355226df53ef4ab9d58550ee4755f18",
+          "total": "13500000000000000000000",
+          "totalWithDecimals": "13500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xece648bd8436403e9d79ce3ad4a1a70ddeb8059dba5d81924f8e69ef386cf856",
+          "total": "14400000000000000000000",
+          "totalWithDecimals": "14400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x17d338d9eb22e0231ce478fc4eabb1bdbb2daf5dda538b40e7be7b5c991d0ac8",
+          "total": "10100000000000000000000",
+          "totalWithDecimals": "10100",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x3f1a3535ad7f2807926b844863cae2439c6f724f8916f0fc4890877fc90ecacf",
+          "total": "11600000000000000000000",
+          "totalWithDecimals": "11600",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xbef802e1e834b580c79ca39811cfe13edb39929b7cc01f1c247024431d3b3442",
+          "total": "13900000000000000000000",
+          "totalWithDecimals": "13900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x82da150b10f71f5cb5479a5c663b5c674e35e8a3b3fdb7a134eec9d8015566dc",
+          "total": "25400000000000000000000",
+          "totalWithDecimals": "25400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x56b864f468644bdb52a294bcd787b35e8fb9ce24cf47cdf37429a1b5537b8ed2",
+          "total": "5000000000000000000000",
+          "totalWithDecimals": "5000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x8d08f38793ee45b7b8a79a31aaff0cd90592af362a0fdd3dfc5ad09e8a471fe5",
+          "total": "3000000000000000000000",
+          "totalWithDecimals": "3000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x8a65636b72d9f68161d122acc57336a0dfd227a7974e67c0b377c39a45f47bca",
+          "total": "27500000000000000000000",
+          "totalWithDecimals": "27500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2ccb3f9e3fa4a744beee814119fe95c095bcff6cd60da15b05f87ee741e2cdd8",
+          "total": "53692000000000000000000",
+          "totalWithDecimals": "53692",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x8ca9bfa847a2388140310e8c0731cd214bef94dc8b935f2e67b693b1f8f4d965",
+          "total": "4000000000000000000000",
+          "totalWithDecimals": "4000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x589a43b8a17902eb8a1b12d9f66d9a8ce9ff6302ebf4bc2da955c5b96c6d6e21",
+          "total": "13900000000000000000000",
+          "totalWithDecimals": "13900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x5e81ce252d57d4909a5992d40dc70c78cae057c6e64e88571a0104c86f1db3c8",
+          "total": "9900000000000000000000",
+          "totalWithDecimals": "9900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xfb77215f794132443892246524806274b2f615f507e77589ead9ae51e2fcfdc5",
+          "total": "17300000000000000000000",
+          "totalWithDecimals": "17300",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xc3821b0a1afb534cdecdfb8194a9e9219168a0a33d916ed6463995adea88285f",
+          "total": "19500000000000000000000",
+          "totalWithDecimals": "19500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x571af089ad53b8f3680c394139759c2bb9d9967af4313ae78e0c1cfa3248517c",
+          "total": "40900000000000000000000",
+          "totalWithDecimals": "40900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x9a747d1b21a6c910a405f0302a2c4db547a2517d5896ee09aa0983cdc57c15b6",
+          "total": "18500000000000000000000",
+          "totalWithDecimals": "18500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xd65e16824d5d7fe02b6e2d3cdd7b8f61694c3d99c1e126252cc3240a6275f797",
+          "total": "13100000000000000000000",
+          "totalWithDecimals": "13100",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x3f283db04f38eb1262f07878bb7fa35c33948b916a471e07e4b16f837170e9eb",
+          "total": "29000000000000000000000",
+          "totalWithDecimals": "29000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2ab52a7032c005f210aa7bb033f0a72065028b00a6c0c9d4dfc5b8bb90d578fa",
+          "total": "29800000000000000000000",
+          "totalWithDecimals": "29800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x38b27487d0f746a4bc02cf0993b0ae76a9f45bbaf448d269d70d1b9c3933761c",
+          "total": "14900000000000000000000",
+          "totalWithDecimals": "14900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x9df2d6a48d041eb0904dc6c0797c7676eb6b6b5617f5929f39123917cad83b0c",
+          "total": "18896000000000000000000",
+          "totalWithDecimals": "18896",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x5255f78fac685debb0bfbc0c74f2298bb1b7d79ddb073d551726c7ad026b9b2a",
+          "total": "22000000000000000000000",
+          "totalWithDecimals": "22000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2affbca24fefcfc22ea9835b9d476bc2810c258c4cb7b41e73e961ff0c2fa60a",
+          "total": "7900000000000000000000",
+          "totalWithDecimals": "7900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf386180b2f8c1487ff843e34bf9d81924a7680538c46ba580921befeb3460e47",
+          "total": "18700000000000000000000",
+          "totalWithDecimals": "18700",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x819a4d9df02f5fd6486eaa57b178e9df9dbf245923f638bc3e66d94654bf6805",
+          "total": "18900000000000000000000",
+          "totalWithDecimals": "18900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xfc40cf9f9e60310098deb491e1aa9bc05acef370c015eec5bcaa66341d5ed941",
+          "total": "14000000000000000000000",
+          "totalWithDecimals": "14000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x9a7e6a6b27ed42cde8ae8f8dc6c65dfd6fe9a42c873e991a8c970c4758a74765",
+          "total": "36696900000000000000000",
+          "totalWithDecimals": "36696.9",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf34399b8fa264ff10c5c15b91f02e82a30becb8ad812905fc9261f71c4da8774",
+          "total": "16000000000000000000000",
+          "totalWithDecimals": "16000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x96de059e6d41deb70bbae50a2e74431da46e617b1ff93a9a53d079d5fe1bac70",
+          "total": "122010372000000000000000",
+          "totalWithDecimals": "122010.372",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb36483a22232f73a8e7de2b13abdebc3f39685fe6a624f3d56df12b30881244a",
+          "total": "18000000000000000000000",
+          "totalWithDecimals": "18000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x9978d83afcc9e404b64b3ea7eb04992a84b2dfb044c45fb325f7df4704cfac57",
+          "total": "249300000000000000000000",
+          "totalWithDecimals": "249300",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xd54ed8c57b7c911bb933870c985c64447cf4b56a78a2b2b15f7532111cec0e2c",
+          "total": "4200000000000000000000",
+          "totalWithDecimals": "4200",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x5e48657ed9c711be661ec059828eaf9817f28e0eacfb697bb39095822b3240bd",
+          "total": "15000000000000000000000",
+          "totalWithDecimals": "15000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x92c8a44ccaa3390e2556c48d51b5576cb7d6ae08f2973d084bc9554b796f3d2f",
+          "total": "9300000000000000000000",
+          "totalWithDecimals": "9300",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xfd8b30811b14eb89faae5e0a78793b81c866431d6da30b0c7084c657c9d13b57",
+          "total": "12900000000000000000000",
+          "totalWithDecimals": "12900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xe7df79ccf9e74ee13d21183a50abab026146b8eb4b2d0dcfd91d4b0980a5935a",
+          "total": "8500000000000000000000",
+          "totalWithDecimals": "8500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb3c0954b41741f8b997905309aed8081f561462032e5a374232e3096b3fa763b",
+          "total": "13400000000000000000000",
+          "totalWithDecimals": "13400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x877992d6044c88ab96f967abba7791d14c523996745bf3ead64c5efc3c743af8",
+          "total": "800000000000000000000",
+          "totalWithDecimals": "800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x4e5a3314b9dbdae6f1ec327f5feacda242167707665a7f6a75ef91f6bc117e50",
+          "total": "21300000000000000000000",
+          "totalWithDecimals": "21300",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf9e47b34c20783be3f1e0d62c4f5e90f7002e5f3a6b345467901a4212e9d6736",
+          "total": "10300000000000000000000",
+          "totalWithDecimals": "10300",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xbe1669dbb058015d9602943347fe58598ca0a4a3a91d2ec41b083853e63c0b2d",
+          "total": "19300000000000000000000",
+          "totalWithDecimals": "19300",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf4912b4c92fe2c02f27e519e16845f3a3f20c906fa0ede1e65d7d0e16b4b75e5",
+          "total": "22000000000000000000000",
+          "totalWithDecimals": "22000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa264c89f8bd61c2724846d4de9a5adc8d4a2dd9147f5488800137a9be24245d5",
+          "total": "8500000000000000000000",
+          "totalWithDecimals": "8500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xef27bd24926b1c2e78e3ac799f7a7a8e74639c6f3b98dc8490f8d7b942038dac",
+          "total": "16000000000000000000000",
+          "totalWithDecimals": "16000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xac8d938c79aceb2543a104164030dc5f1196e94bb634ca42b362c264562163eb",
+          "total": "8100000000000000000000",
+          "totalWithDecimals": "8100",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x98e024cf7d02100d786d186f34f84aa064a43fc1660b0e11c50c12f41f3d5ca6",
+          "total": "6500000000000000000000",
+          "totalWithDecimals": "6500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x396a4d3afecfd664ad43d43d5e57276e1f530d19ab7ca0ceefc1b459ad2d9c9a",
+          "total": "7500000000000000000000",
+          "totalWithDecimals": "7500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x382cec1964315fe3e723222df4fc726e27d9177e30b4b5c016942e101b7ed4f9",
+          "total": "5450000000000000000000",
+          "totalWithDecimals": "5450",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x63ff138611be0a56d9bec3f3612471aeb329b0f868b5350e45644644303d6a5a",
+          "total": "7850000000000000000000",
+          "totalWithDecimals": "7850",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x53351f5306204a50d5c891383715522bfddf5d126a366aa5fd8d38683bb3f022",
+          "total": "1700000000000000000000",
+          "totalWithDecimals": "1700",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb32829a63a0049a68151d71b96b6a37936865d350571b696494f26270dbe388f",
+          "total": "15900000000000000000000",
+          "totalWithDecimals": "15900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x3933540e94ebd5055dac9621031521373acd802a56f80abe0856dba1839db5c7",
+          "total": "8750000000000000000000",
+          "totalWithDecimals": "8750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x920c223fcef2a64e29f5ee7bd0eb2cca0e3401537a99a8191255b4cf2d5c5360",
+          "total": "12750000000000000000000",
+          "totalWithDecimals": "12750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0ee1364241bda4eedca25cfce0f3a75ebb1faafb053698ecd844e24ed4947b46",
+          "total": "3750000000000000000000",
+          "totalWithDecimals": "3750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb7b9ac94f35e83fd05119591071018dc332f59df4b2ff373ca0bbfdbbcee3765",
+          "total": "6000000000000000000000",
+          "totalWithDecimals": "6000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xd37533969ef1635a636cd79162af5b3b97d524cf460a51ad453627b614f2b969",
+          "total": "5500000000000000000000",
+          "totalWithDecimals": "5500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x9a02cb4d3e20690a92eb26455f8d7ff6ec4d79d3db81734e5086d4a6cba2235d",
+          "total": "4400000000000000000000",
+          "totalWithDecimals": "4400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x7607fc9f2aaa66dc7b3ee674efc16826843c64b3ca34a16cef07e0195bd500f9",
+          "total": "10500000000000000000000",
+          "totalWithDecimals": "10500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x4a21a82fdc45932ad22156db3ac54b6db8780ae711e153d69e59c685a73f25ae",
+          "total": "5000000000000000000000",
+          "totalWithDecimals": "5000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2bb4aaecc7dc45e9d3f403c1832a33a4b689c63d2d3354fc3f18be5cfa1666bd",
+          "total": "7900000000000000000000",
+          "totalWithDecimals": "7900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x405139861ed4c0399f15e79b84e458d53156100b9526172966fe72f375bcf1a1",
+          "total": "11800000000000000000000",
+          "totalWithDecimals": "11800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0456ce3b87e877d893f982d2730c1a7944c2a19356eb6d6e234cf2e964e4a289",
+          "total": "4800000000000000000000",
+          "totalWithDecimals": "4800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xceca564621428235207759ffaaa7df16c3756d75592e3483d47774e5e1366758",
+          "total": "17912320000000000000000",
+          "totalWithDecimals": "17912.32",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x1190d0aba7173859442b5d9f6c7dff6a4176573c219b5e3b38495b0ec63002e3",
+          "total": "12000000000000000000000",
+          "totalWithDecimals": "12000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x19901276c47ea7c1bb3138a2570cd1048b48cd3c33026771766b9e3e715e6004",
+          "total": "15000000000000000000000",
+          "totalWithDecimals": "15000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xff89ab6fc6352c67ce832fd22818b51d392a89060d97c0e81bbf12742e961c4a",
+          "total": "6000000000000000000000",
+          "totalWithDecimals": "6000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x56d93dbd6b5c37a12549cff4c6c0610f4cc32c4c33be69565dc235df8e1c79f8",
+          "total": "11800000000000000000000",
+          "totalWithDecimals": "11800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa397c832e8bb2684d3bcfcace5551a255467e90a878b9864173b0391629228b2",
+          "total": "9250000000000000000000",
+          "totalWithDecimals": "9250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x9b6a891bc32c90ce4ee69cc6b543be295825f754330729cbc84921f2089c112d",
+          "total": "13450000000000000000000",
+          "totalWithDecimals": "13450",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x81bbe52838428e3835ddbfb473d617c347f12ea7bf3700e79daa5fea5871b08e",
+          "total": "15250000000000000000000",
+          "totalWithDecimals": "15250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xd16932084ca6bbe85f5defe667052b680e9849e7e501666a8b429af50cfef874",
+          "total": "23800000000000000000000",
+          "totalWithDecimals": "23800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x15e3c72ba15a1406353be4ed8667166abfadb55760e847a6ad8de4da6cf14a8d",
+          "total": "8250000000000000000000",
+          "totalWithDecimals": "8250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xec50c1bedea766830f5ea8c669f2fb5ebb3392c1cc74bb9b238fcb9ed6be75fb",
+          "total": "8200000000000000000000",
+          "totalWithDecimals": "8200",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x6f8a85994662dfc9a927b365150e3f8f4b7c8db91562061ce4ce927c1b2632ac",
+          "total": "21250000000000000000000",
+          "totalWithDecimals": "21250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xc28c4d5f1dcccde557301d173c9317575c87156216dc88287989c739db3432dd",
+          "total": "6750000000000000000000",
+          "totalWithDecimals": "6750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xd81825c5807e7a9d727eb0940395ab451e5b71a99f514e3564ea0a7407c33305",
+          "total": "7650000000000000000000",
+          "totalWithDecimals": "7650",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x79082c4549b9f257227b55371f9d837ec61bc188fbc648063c0e4f030f51b8a7",
+          "total": "8000000000000000000000",
+          "totalWithDecimals": "8000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0ec80d705584f4cd588abaa137f51ef297a42578334dcea6a664aab02088db0b",
+          "total": "7400000000000000000000",
+          "totalWithDecimals": "7400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x79d03719eb1757ab7059ae85e9b06995ae89313366db2b06ff9fcfaebb87b28b",
+          "total": "10900000000000000000000",
+          "totalWithDecimals": "10900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa08e41c8c4db22afa169def99fa1c7d9348eb1e260120b9100ee77af94c4b630",
+          "total": "13500000000000000000000",
+          "totalWithDecimals": "13500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf6784ea57506421544d062659d6e356e8641cae980b6c52b700fea1d8aeaabde",
+          "total": "2400000000000000000000",
+          "totalWithDecimals": "2400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x354b050a5a19ace5f2ec61a8f231597b0a6e112c76f8e72f2f828b7ec82a7c90",
+          "total": "18500000000000000000000",
+          "totalWithDecimals": "18500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xe2333532ded5fdf523c558f9b38d9cec657a2641f69fbe67eba38e5cef57ec7f",
+          "total": "4500000000000000000000",
+          "totalWithDecimals": "4500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x6219b0da269bc2cc828ee9085c9e68a50647664047de2224a3b7275ff0ccbcdc",
+          "total": "4250000000000000000000",
+          "totalWithDecimals": "4250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x12ad52a5dbcbc26431af7989d2981ca8dcfeef83d39d1223c8b990acef6ffd79",
+          "total": "4250000000000000000000",
+          "totalWithDecimals": "4250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0178beec0ce90ef666aca7c743514819ce893aabe61a871708ffc0587199e19d",
+          "total": "4750000000000000000000",
+          "totalWithDecimals": "4750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xde54bb4e21d725035407e6195336c6a498b0135a76339666eda3f5e78358b221",
+          "total": "2600000000000000000000",
+          "totalWithDecimals": "2600",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x6032858ce30452906f9360a1c3869b2cf51fd14564dd530b46d97a269475433e",
+          "total": "6400000000000000000000",
+          "totalWithDecimals": "6400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xe90ffbfd92b7c76d29a1bca0ced6786a8027175c40beb0755f6e94b8c764cd34",
+          "total": "7650000000000000000000",
+          "totalWithDecimals": "7650",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2b178e26da12db96918920df90388592e87f85e0681c9b3b6007f6ff36e200d7",
+          "total": "6000000000000000000000",
+          "totalWithDecimals": "6000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb0395715aa41abf2548c91f2baea3a32ae0fd957f641f6b919c7982d9b0ad928",
+          "total": "2850000000000000000000",
+          "totalWithDecimals": "2850",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x877d9768cfc5599f6a35ae67583e6cf8fc3a07db72abd53828a0d87e32d9c56e",
+          "total": "7000000000000000000000",
+          "totalWithDecimals": "7000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x1162f7529aa30aeaebaa5a9495222d4f4497dea49cbfcb2524a4f3f0392fdc32",
+          "total": "3900000000000000000000",
+          "totalWithDecimals": "3900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0fd53dca9b8a97e67a574b50e87d34aaa5f5d8a42015e89d1f738bc1449c406c",
+          "total": "5500000000000000000000",
+          "totalWithDecimals": "5500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa879f8cf71b545ccf49db957d4849911e07d7060cd3fb9296721b7f6626138eb",
+          "total": "5250000000000000000000",
+          "totalWithDecimals": "5250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x040afa8e756c21a6e7a898b5bb3d5f087b2998fdc6fefb4436b919089557ac9f",
+          "total": "7400000000000000000000",
+          "totalWithDecimals": "7400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x24027fd3db3da134427781e4ed5c05360250d7baa52ce0d5eee6dc8845737615",
+          "total": "10850000000000000000000",
+          "totalWithDecimals": "10850",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xc75a471d1b90a233f75edcb840162dd8ee136264642f6e35b7ef37110fe37b1c",
+          "total": "1250000000000000000000",
+          "totalWithDecimals": "1250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x59ff15c2e388ff556d41e420e467b933bb94c7ebfd67dd467a2bc535a5807338",
+          "total": "2750000000000000000000",
+          "totalWithDecimals": "2750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x3ca600e3f1b33ab19a86e4ae8fd3018b075b56ba2b529fa8d53153357288ee52",
+          "total": "1400000000000000000000",
+          "totalWithDecimals": "1400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xce0054a56efc9657a8b2874157b22797d52d51c450d9bd6c642de30b10e83d9e",
+          "total": "2500000000000000000000",
+          "totalWithDecimals": "2500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x844a6789c255cac37eba17791c710c0c805386b351b95ea6655ae697b4074f90",
+          "total": "2000000000000000000000",
+          "totalWithDecimals": "2000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x8e7f21b4c6ec7bce750e044efc677e6cfded81147502b717fdd4a0834502a44b",
+          "total": "1300000000000000000000",
+          "totalWithDecimals": "1300",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x223c9aa21f677fab82cff49a61dad9912c29599aaca4bcecc6245ade0635806a",
+          "total": "2376640950000000000000",
+          "totalWithDecimals": "2376.64095",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x3246ae3d7796563a567773aadb8765aff58fb9bceb5c6b5db05259709c0e019e",
+          "total": "1750000000000000000000",
+          "totalWithDecimals": "1750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb67f59e043ea9713b36b867d52762c34778b75d23e48d4ee5324f9f54df3a3d6",
+          "total": "1650000000000000000000",
+          "totalWithDecimals": "1650",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x79c0b66cc10a77286223e7abd613452b0894e51ce710cca913345a58ab7baba8",
+          "total": "13250000000000000000000",
+          "totalWithDecimals": "13250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xcb1ee18edd84ac0e7183df500440523aca9819d362db0fc90c78698df52a5485",
+          "total": "2000000000000000000000",
+          "totalWithDecimals": "2000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf73494bf87608a318f38893f91b2e97eb78e92474f18904abbb78a24926cd1e0",
+          "total": "5150000000000000000000",
+          "totalWithDecimals": "5150",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x5dd573c2ad10a9f730f07fe76872efc75d65dadc881196e07ec9fac926f4e094",
+          "total": "4500000000000000000000",
+          "totalWithDecimals": "4500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x4037b2d10f08a2e50130256941208ec90eba72ff37d8b6f07a3113fea96327b8",
+          "total": "5250000000000000000000",
+          "totalWithDecimals": "5250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa8f245e010ae773b7b583304443802e9d55929f125fe084e00f2c2f60b2b283e",
+          "total": "1250000000000000000000",
+          "totalWithDecimals": "1250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x185851909354e64208a2eb894f66bb5bf12eb10e0bdb27b5663d090b80656e34",
+          "total": "4800000000000000000000",
+          "totalWithDecimals": "4800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0578ebf9cab6059fc1f21868d8a8eb6609dc3c5d8b8e9c98bffb1e799d7f3d51",
+          "total": "8000000000000000000000",
+          "totalWithDecimals": "8000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2ee7ea503ffe52e9b8a09976865f975123639ac9fdb950b4d0951e40586375d1",
+          "total": "1700000000000000000000",
+          "totalWithDecimals": "1700",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x313126ae79ace591ca4a0adeff6fb6965634a2ecb0089ce61bd05d5a320ffdf0",
+          "total": "4100000000000000000000",
+          "totalWithDecimals": "4100",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x1fc3ed89825b037111430f15ce01b65f543ada7347e6e7c67bfe1da610e1fc5f",
+          "total": "4500000000000000000000",
+          "totalWithDecimals": "4500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xcabfaa7690f2f75821741e8fbc20e12c400946751f8cce048e954aecf04c6d6a",
+          "total": "8260000000000000000000",
+          "totalWithDecimals": "8260",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xdf143116226d0ebcbe6fb752092f11997d43be9b9d27bba9c4e7eec2f7cc8b50",
+          "total": "730000000000000000000",
+          "totalWithDecimals": "730",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x4fa87d335f007497616bcc1b78ea2dce20c5bdd9b632c1c848eb5f171f28b00e",
+          "total": "3000000000000000000000",
+          "totalWithDecimals": "3000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xad7f8d349afdaca4913d43b1e938595061c28c51713ffc361ba31f004cfff926",
+          "total": "11450000000000000000000",
+          "totalWithDecimals": "11450",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x102087a4712db5ec3feaec6417d210d38e606003ed095905a3904d803fbc12fd",
+          "total": "28449000000000000000000",
+          "totalWithDecimals": "28449",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x72e528bf29d2538ad9a60f9653652bca4a5f59d0d9651b79b19fdcebabd0d691",
+          "total": "5750000000000000000000",
+          "totalWithDecimals": "5750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xc1e3b9e0154cee1f4011180d9205b75ef4da43893abbe540cfb31715af117235",
+          "total": "6250000000000000000000",
+          "totalWithDecimals": "6250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf9f42d6b0c9788d3ac05e28f8d6e8c50ac8340217256b27fd0de093e0ee27a83",
+          "total": "1250000000000000000000",
+          "totalWithDecimals": "1250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x15faddebd9c0f4b634e2393888872e2c1f81781e79cb52ea2cd836f6979f429f",
+          "total": "3500000000000000000000",
+          "totalWithDecimals": "3500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x571831157ce7ead7aea9a0ecaff133d8e31d66c817778fe402b13039badadb0a",
+          "total": "6000000000000000000000",
+          "totalWithDecimals": "6000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xdd3bb9e6b25886dfcc12daac30635d69f4bfe8d6256a03acbec47d6c85ec5de7",
+          "total": "13500000000000000000000",
+          "totalWithDecimals": "13500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x7b44615c83e4c45ef598782b0d2475bf155f2c1d26c33e4df7e99b338321e3b8",
+          "total": "9500000000000000000000",
+          "totalWithDecimals": "9500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x59be06a5eda3fff09c19fed605ac6bdc143c747a9d76dac4dd3843770f823f8f",
+          "total": "6000000000000000000000",
+          "totalWithDecimals": "6000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x256c7d1405778f78f4e2cd6279699d84be9225f8ce335a0ea62efad7ef01784c",
+          "total": "2900000000000000000000",
+          "totalWithDecimals": "2900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0137a332fe2eb7f46d6de0742b4c536fc78b01d66387fc1ca938bed5696fde65",
+          "total": "5200000000000000000000",
+          "totalWithDecimals": "5200",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xfdaa28a2bde0c0019f4954b1f703310fd704676ec609b42784012526efe2e59c",
+          "total": "3000000000000000000000",
+          "totalWithDecimals": "3000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x3895c006ced95a1ea254eab06d858652850dd51137a4b42a73055f1f0b50f81a",
+          "total": "1750000000000000000000",
+          "totalWithDecimals": "1750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x2c57789b80d4442eff458a322562de02c4cdd95e763b743908b5f6a6abae89cf",
+          "total": "6750000000000000000000",
+          "totalWithDecimals": "6750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x77a3d04121e8470efc408107eb26a0f21d3e96282bd740ea7c5f6346fd9293a8",
+          "total": "5000000000000000000000",
+          "totalWithDecimals": "5000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x718e156961a978f77a02f2933aebb20f730437d6f84e23d26022c94ea164b0ba",
+          "total": "4250000000000000000000",
+          "totalWithDecimals": "4250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x9b9daf532812cdddd73cb50b97604124a209dc58059d4100faae1ee6e0e328d4",
+          "total": "6750000000000000000000",
+          "totalWithDecimals": "6750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x928ccc5038a4913bab8a14660c0a1a23e82594116a005dd32432525381c679e6",
+          "total": "9400000000000000000000",
+          "totalWithDecimals": "9400",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x8ceab671716d91c11f4b08b50b2855346038bbbf4e00c0be6a46943839cec605",
+          "total": "20700000000000000000000",
+          "totalWithDecimals": "20700",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x401c60c8cf6dd3d2cab765e431566ead1489f953f3a59265df897e4130b8edbf",
+          "total": "35500000000000000000000",
+          "totalWithDecimals": "35500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x79da9755c8c468d82f5365d48b032ec17f7479f48842d246326d1d0a7cdf467c",
+          "total": "9000000000000000000000",
+          "totalWithDecimals": "9000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xe2f5fb4452b7c24f7e7b8569a82dce2839506624248b6bb8d9d5b6efca1c12c4",
+          "total": "5750000000000000000000",
+          "totalWithDecimals": "5750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x7bae324b77a521af99e6d485f3932bd1938e44d4e0245ef5cd84b9e5fbe2eeb9",
+          "total": "26750000000000000000000",
+          "totalWithDecimals": "26750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x6de61953ce1289da642ef98dfae4ea5b8a15dafabed96555157c2afcce5babff",
+          "total": "7000000000000000000000",
+          "totalWithDecimals": "7000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xe7950925e96c6baa44b14f4cdedd90f07d18dcf96f18d833e4b43cfb87086e58",
+          "total": "2200000000000000000000",
+          "totalWithDecimals": "2200",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xfd0c07d0b85aaabc4244d250a4f93d0b1e0a4bf2bfd811705f7db39b20fdccaf",
+          "total": "8250000000000000000000",
+          "totalWithDecimals": "8250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x28aa7786876d201ddc1e69a90d11e1490087246c682a8ba97cb306437551dbb5",
+          "total": "1750000000000000000000",
+          "totalWithDecimals": "1750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x1c55a27dc336452619cf81842cd8f0a9de53d35737bb1e85b93f45f63f6ce976",
+          "total": "2450000000000000000000",
+          "totalWithDecimals": "2450",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x4aacb402971cad52c4db7455717f7fb5f101be1d19c08a8435f9dc1fa1995786",
+          "total": "20950000000000000000000",
+          "totalWithDecimals": "20950",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x43b7528796533348d42d6539b027c5a77d3ed72ab974c42e9b385e430f4ff3d4",
+          "total": "7300000000000000000000",
+          "totalWithDecimals": "7300",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf40393195aa4187c491bc1b883e277bf7b4cea5ba823f3394218782eb8456c42",
+          "total": "1700000000000000000000",
+          "totalWithDecimals": "1700",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x352c46e46bb1931c944f6c0da8b516be524b41ebcb71b243ab2cc2ca6bf77839",
+          "total": "5950000000000000000000",
+          "totalWithDecimals": "5950",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf2ea2917cd27d56ba380968c8e75acafae68662f8c9729e1a5b0f97f93ccdd9a",
+          "total": "7000000000000000000000",
+          "totalWithDecimals": "7000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x768056e47686984f983cf74e5850affe17bc3558339c57ef68e462b6532e1226",
+          "total": "2000000000000000000000",
+          "totalWithDecimals": "2000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xd49d79fdc07520d31e35ed81325a30a56a6c92c975c0f522862d51ec9e9d8f9d",
+          "total": "2700000000000000000000",
+          "totalWithDecimals": "2700",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x552388e6f5773f216ea6b3fdd7840bea98c35e63bc452815380e2747525a964a",
+          "total": "22000000000000000000000",
+          "totalWithDecimals": "22000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xe0c390fcb7487300795d8ff8a26fe7669df77e75654e766ecf8808185b956333",
+          "total": "2450000000000000000000",
+          "totalWithDecimals": "2450",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa2f996064ec7a6c9268c96184bff27d562966c288688f4e202ff70bbe5b28cb3",
+          "total": "5500000000000000000000",
+          "totalWithDecimals": "5500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa90c2a3b40dbe5adcd4fa2169b3c8e3c80a8c4998eb525533611e964dc180e20",
+          "total": "1700000000000000000000",
+          "totalWithDecimals": "1700",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x44c3804de5acb123d01cee57cc1d5e6a8d55625a4b559450b13cd7fc991f5d2e",
+          "total": "1950000000000000000000",
+          "totalWithDecimals": "1950",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xa94017955584cbaee9aba894d00098e70e8e1c5d6c5adf641d5ad977ce2de690",
+          "total": "3050000000000000000000",
+          "totalWithDecimals": "3050",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xe0e6eb210241a8ed11f0ca423dd1a86ca70dc8db5e52211741d1bca159bd3c9f",
+          "total": "40800000000000000000000",
+          "totalWithDecimals": "40800",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x11007548d437fa4adb94dacb2a88bc8fee70aa3147ba70e9abe30d6c2c575de6",
+          "total": "2250000000000000000000",
+          "totalWithDecimals": "2250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x9e23edb196399645752cf87d4c525212cc1593e3a27938cef10824e69ed9ac0b",
+          "total": "8250000000000000000000",
+          "totalWithDecimals": "8250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xae0c1a8ac13dd513a579faf9270e7f871f9fb471ffca4598c73abb32e13f0862",
+          "total": "3750000000000000000000",
+          "totalWithDecimals": "3750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xb9a2f455d2ea324ee65fb235e0695c0bb680e205f31aa3a693feee3859c8d9fe",
+          "total": "7000000000000000000000",
+          "totalWithDecimals": "7000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x512871b1b88ffb94eb728d79dc6e34a96d0f3093ebc655b8ad907af49a61e516",
+          "total": "32500000000000000000000",
+          "totalWithDecimals": "32500",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x40c2aa1f827e7e7c296a44ca2a27ee8877aa46b947917abb7551a30714636852",
+          "total": "2900000000000000000000",
+          "totalWithDecimals": "2900",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x0a51390f7d419f8a884a4ee2cc96fbcc2249568c04246a454268cd2390983f2d",
+          "total": "7700000000000000000000",
+          "totalWithDecimals": "7700",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x99717907b3cdb28576a723d9639db3c7ceef3de30edfa97d37770444f9c2bffb",
+          "total": "4750000000000000000000",
+          "totalWithDecimals": "4750",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf9d50857705934144ee86f529b50f48b355074fa363b65f1784881386ca71d90",
+          "total": "6000000000000000000000",
+          "totalWithDecimals": "6000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x9f0f4a8a17b7ba1e0965f52fa07822a14c18debba623bfd2423cb18080405e5d",
+          "total": "3450000000000000000000",
+          "totalWithDecimals": "3450",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x6729bfbf285390035820bdddddc2056d81a7f62365655f910326dfdaa3fdec34",
+          "total": "950000000000000000000",
+          "totalWithDecimals": "950",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xdbaccdd1db3d0e511aee0d0d2b82693e5401975334e0849b3b3bfc3296b6b9b4",
+          "total": "22000000000000000000000",
+          "totalWithDecimals": "22000",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x070e1c431ca4b3e1b960f01d0da7063cd069c7be9355130e4ce3fec9bffb230b",
+          "total": "33598000000000000000000",
+          "totalWithDecimals": "33598",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xf4294fdb924e58ab7c330e11fad52d9d75b2477e2df0f5fe52feb071dc19122b",
+          "total": "4200000000000000000000",
+          "totalWithDecimals": "4200",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x301bd4be2fcc7a4ab0b0b5e2a3dcb8ff777fb3640bc174c0a3be05c2da89710c",
+          "total": "3250000000000000000000",
+          "totalWithDecimals": "3250",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x7f269b4d56ad62d8e27020a9b6e07a9c4984c055faf71efc57dfc2a29c685dd3",
+          "total": "950000000000000000000",
+          "totalWithDecimals": "950",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0xabc5a123e0e3b416cce6cbd642f1fa603b64dc09300f658d817e449c53f5bddf",
+          "total": "7450000000000000000000",
+          "totalWithDecimals": "7450",
+          "totalUsd": "NaN"
+        },
+        {
+          "txHash": "0x1c1623986e42ceedc86ea4844a6a5da48f451a478ea21fe45b7ee12d06e0593f",
+          "total": "2800000000000000000000",
+          "totalWithDecimals": "2800",
+          "totalUsd": "NaN"
+        }
+      ],
+      "valueWithDecimals": "18603501.84833",
+      "decimals": 18,
+      "symbol": "GUNTHY",
+      "name": "GUNTHY",
+      "usdValue": "0.00"
+    }
+  ],
+  [
     "0x07446e9eF09C89bDC74348B014c9a4133481F60c",
     {
       "value": "1250000000000000000000",
@@ -47508,40 +47508,20 @@
     }
   ],
   [
-    "0xe9f16332461D96B724d734F82cc4855983Dc2143",
+    "0x740d78C848f35C32FaC08C27B5F9F2c6669c50ec",
     {
-      "value": "4207000000",
+      "value": "2171700000000000000000000",
       "txs": [
         {
-          "txHash": "0xf94a29dcdce03efab405feac56db618a17a5e22cc2af5bb9f92387664d384dea",
-          "total": "237000000",
-          "totalWithDecimals": "237"
-        },
-        {
-          "txHash": "0x78ccdc1311de8c0c48e92c263a0e4767497cb0ffee543d0f51e5ca445d2ed2e3",
-          "total": "1096000000",
-          "totalWithDecimals": "1096"
-        },
-        {
-          "txHash": "0x5b0c15bcba0ec68de25191cace399ca0e1e53d44e610cb35051f5cea61c4bce6",
-          "total": "559000000",
-          "totalWithDecimals": "559"
-        },
-        {
-          "txHash": "0x040346ad6678a7def6859bd6d573af0a5040a7ed6b781d8e82abf463aaa558ad",
-          "total": "930000000",
-          "totalWithDecimals": "930"
-        },
-        {
-          "txHash": "0x6f1e650390d5796567538a669fcadaa03f30b75693d87e859e46b13c16b2613b",
-          "total": "1385000000",
-          "totalWithDecimals": "1385"
+          "txHash": "0x167e341308fb7858a13b3d634c07ea00985abfd0df3afcdcba8b0f72df5060cc",
+          "total": "2171700000000000000000000",
+          "totalWithDecimals": "2171700"
         }
       ],
-      "valueWithDecimals": "4207",
-      "decimals": 6,
-      "symbol": "BTC2",
-      "name": "bitcoin 2"
+      "valueWithDecimals": "2171700",
+      "decimals": 18,
+      "symbol": "7TK",
+      "name": "7TK TOKEN"
     }
   ],
   [
@@ -73575,20 +73555,40 @@
     }
   ],
   [
-    "0x740d78C848f35C32FaC08C27B5F9F2c6669c50ec",
+    "0xe9f16332461D96B724d734F82cc4855983Dc2143",
     {
-      "value": "2171700000000000000000000",
+      "value": "4207000000",
       "txs": [
         {
-          "txHash": "0x167e341308fb7858a13b3d634c07ea00985abfd0df3afcdcba8b0f72df5060cc",
-          "total": "2171700000000000000000000",
-          "totalWithDecimals": "2171700"
+          "txHash": "0xf94a29dcdce03efab405feac56db618a17a5e22cc2af5bb9f92387664d384dea",
+          "total": "237000000",
+          "totalWithDecimals": "237"
+        },
+        {
+          "txHash": "0x78ccdc1311de8c0c48e92c263a0e4767497cb0ffee543d0f51e5ca445d2ed2e3",
+          "total": "1096000000",
+          "totalWithDecimals": "1096"
+        },
+        {
+          "txHash": "0x5b0c15bcba0ec68de25191cace399ca0e1e53d44e610cb35051f5cea61c4bce6",
+          "total": "559000000",
+          "totalWithDecimals": "559"
+        },
+        {
+          "txHash": "0x040346ad6678a7def6859bd6d573af0a5040a7ed6b781d8e82abf463aaa558ad",
+          "total": "930000000",
+          "totalWithDecimals": "930"
+        },
+        {
+          "txHash": "0x6f1e650390d5796567538a669fcadaa03f30b75693d87e859e46b13c16b2613b",
+          "total": "1385000000",
+          "totalWithDecimals": "1385"
         }
       ],
-      "valueWithDecimals": "2171700",
-      "decimals": 18,
-      "symbol": "7TK",
-      "name": "7TK TOKEN"
+      "valueWithDecimals": "4207",
+      "decimals": 6,
+      "symbol": "BTC2",
+      "name": "bitcoin 2"
     }
   ]
 ]
